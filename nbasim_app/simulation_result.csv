@@ -1,0 +1,871 @@
+,a_tm,h_tm,sgoals,mqij,sim_ascore,sim_hscore
+Los Angeles Lakers vs New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,208.7270583887692,-9.084593994660192,100.0,109.0
+Los Angeles Lakers vs San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,202.94895436413384,-18.7028912786872,93.0,112.0
+Los Angeles Lakers vs Boston Celtics,Los Angeles Lakers,Boston Celtics,210.16216847379332,-12.262280367420944,100.0,112.0
+Los Angeles Lakers vs Charlotte Hornets,Los Angeles Lakers,Charlotte Hornets,204.30494939247131,-10.566707278625367,97.0,108.0
+Los Angeles Lakers vs Denver Nuggets,Los Angeles Lakers,Denver Nuggets,214.9027356928715,-8.483178140845334,104.0,113.0
+Los Angeles Lakers vs Indiana Pacers,Los Angeles Lakers,Indiana Pacers,204.66826405177687,-11.11624574232042,97.0,108.0
+Los Angeles Lakers vs Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,200.47659362575126,-10.82734170606457,95.0,106.0
+Los Angeles Lakers vs Miami Heat,Los Angeles Lakers,Miami Heat,200.7237718935467,-10.882843217662952,95.0,106.0
+Los Angeles Lakers vs New York Knicks,Los Angeles Lakers,New York Knicks,204.36174477496553,-5.512303311162471,100.0,106.0
+Los Angeles Lakers vs Phoenix Suns,Los Angeles Lakers,Phoenix Suns,214.3304659533759,-6.233285510114108,105.0,111.0
+Los Angeles Lakers vs Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,211.95299938280158,-11.846657330660873,100.0,112.0
+Los Angeles Lakers vs Sacramento Kings,Los Angeles Lakers,Sacramento Kings,213.11353574483024,-7.338626919952214,104.0,111.0
+Los Angeles Lakers vs Toronto Raptors,Los Angeles Lakers,Toronto Raptors,207.0503470284649,-13.700043966132949,97.0,111.0
+Los Angeles Lakers vs Utah Jazz,Los Angeles Lakers,Utah Jazz,196.3413357700045,-12.730826715134603,92.0,105.0
+Los Angeles Lakers vs Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,208.51880157332306,-15.718876598067785,97.0,112.0
+Los Angeles Lakers vs Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,206.99559740980845,-10.31796133835108,99.0,109.0
+Los Angeles Lakers vs Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,211.11051112496295,-15.315569164421033,99.0,114.0
+Los Angeles Lakers vs Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,210.92803088351837,-6.241671570003506,103.0,109.0
+Los Angeles Lakers vs Orlando Magic,Los Angeles Lakers,Orlando Magic,206.42779552328108,-6.214735468389296,101.0,107.0
+Los Angeles Lakers vs Chicago Bulls,Los Angeles Lakers,Chicago Bulls,205.1440090733268,-11.132119753892956,97.0,108.0
+Los Angeles Lakers vs Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,204.4659776325314,-9.182475507687668,98.0,107.0
+Los Angeles Lakers vs Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,205.117817826406,-13.070868786985569,97.0,110.0
+Los Angeles Lakers vs Detroit Pistons,Los Angeles Lakers,Detroit Pistons,204.3328853469216,-10.039815429575928,97.0,107.0
+Los Angeles Lakers vs Golden State Warriors,Los Angeles Lakers,Golden State Warriors,217.5032523094763,-20.798517340203894,99.0,120.0
+Los Angeles Lakers vs Houston Rockets,Los Angeles Lakers,Houston Rockets,216.62825485181145,-13.211180280188668,102.0,116.0
+Los Angeles Lakers vs Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,213.06361177357195,-14.40323626421814,100.0,114.0
+Los Angeles Lakers vs Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,205.6468283404178,-2.4092059577663227,102.0,105.0
+Los Angeles Lakers vs Washington Wizards,Los Angeles Lakers,Washington Wizards,209.64234289812657,-11.552008722107667,100.0,112.0
+Los Angeles Lakers vs Brooklyn Nets,Los Angeles Lakers,Brooklyn Nets,209.85694127979633,-5.202897634964483,103.0,108.0
+New Orleans Pelicans vs Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,208.7270583887692,3.4315273981874372,107.0,103.0
+New Orleans Pelicans vs San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,200.77728341026705,-12.444830582263387,95.0,107.0
+New Orleans Pelicans vs Boston Celtics,New Orleans Pelicans,Boston Celtics,207.99049751992652,-6.00421967099713,102.0,108.0
+New Orleans Pelicans vs Charlotte Hornets,New Orleans Pelicans,Charlotte Hornets,202.13327843860458,-4.308646582201553,100.0,104.0
+New Orleans Pelicans vs Denver Nuggets,New Orleans Pelicans,Denver Nuggets,212.7310647390047,-2.22511744442152,106.0,108.0
+New Orleans Pelicans vs Indiana Pacers,New Orleans Pelicans,Indiana Pacers,202.49659309791008,-4.8581850458966045,99.0,104.0
+New Orleans Pelicans vs Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,198.30492267188453,-4.569281009640754,97.0,102.0
+New Orleans Pelicans vs Miami Heat,New Orleans Pelicans,Miami Heat,198.55210093967997,-4.624782521239137,97.0,102.0
+New Orleans Pelicans vs New York Knicks,New Orleans Pelicans,New York Knicks,202.19007382109874,0.745757385261343,102.0,101.0
+New Orleans Pelicans vs Phoenix Suns,New Orleans Pelicans,Phoenix Suns,212.1587949995091,0.02477518630970632,106.0,106.0
+New Orleans Pelicans vs Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,209.78132842893478,-5.588596634237058,103.0,108.0
+New Orleans Pelicans vs Sacramento Kings,New Orleans Pelicans,Sacramento Kings,210.94186479096345,-1.0805662235284,106.0,107.0
+New Orleans Pelicans vs Toronto Raptors,New Orleans Pelicans,Toronto Raptors,204.8786760745981,-7.4419832697091355,99.0,107.0
+New Orleans Pelicans vs Utah Jazz,New Orleans Pelicans,Utah Jazz,194.16966481613775,-6.472766018710788,94.0,101.0
+New Orleans Pelicans vs Cleveland Cavaliers,New Orleans Pelicans,Cleveland Cavaliers,206.34713061945632,-9.46081590164397,99.0,108.0
+New Orleans Pelicans vs Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,204.82392645594166,-4.059900641927266,101.0,105.0
+New Orleans Pelicans vs Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,208.93884017109616,-9.057508467997218,100.0,110.0
+New Orleans Pelicans vs Minnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,208.75635992965164,0.016389126420309097,105.0,105.0
+New Orleans Pelicans vs Orlando Magic,New Orleans Pelicans,Orlando Magic,204.25612456941434,0.04332522803451866,103.0,103.0
+New Orleans Pelicans vs Chicago Bulls,New Orleans Pelicans,Chicago Bulls,202.97233811946,-4.874059057469143,99.0,104.0
+New Orleans Pelicans vs Milwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,202.29430667866467,-2.924414811263853,100.0,103.0
+New Orleans Pelicans vs Atlanta Hawks,New Orleans Pelicans,Atlanta Hawks,202.94614687253926,-6.812808090561754,99.0,105.0
+New Orleans Pelicans vs Detroit Pistons,New Orleans Pelicans,Detroit Pistons,202.16121439305488,-3.7817547331521135,99.0,103.0
+New Orleans Pelicans vs Golden State Warriors,New Orleans Pelicans,Golden State Warriors,215.33158135560956,-14.54045664378008,101.0,116.0
+New Orleans Pelicans vs Houston Rockets,New Orleans Pelicans,Houston Rockets,214.45658389794465,-6.9531195837648525,104.0,111.0
+New Orleans Pelicans vs Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,210.8919408197052,-8.145175567794325,102.0,110.0
+New Orleans Pelicans vs Philadelphia 76ers,New Orleans Pelicans,Philadelphia 76ers,203.47515738655102,3.8488547386574914,104.0,100.0
+New Orleans Pelicans vs Washington Wizards,New Orleans Pelicans,Washington Wizards,207.47067194425978,-5.293948025683853,101.0,106.0
+New Orleans Pelicans vs Brooklyn Nets,New Orleans Pelicans,Brooklyn Nets,207.6852703259296,1.0551630614593321,105.0,103.0
+San Antonio Spurs vs Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,202.94895436413384,13.049824682214446,108.0,95.0
+San Antonio Spurs vs New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,200.77728341026705,6.791763985790633,104.0,97.0
+San Antonio Spurs vs Boston Celtics,San Antonio Spurs,Boston Celtics,202.21239349529117,3.6140776130298797,104.0,100.0
+San Antonio Spurs vs Charlotte Hornets,San Antonio Spurs,Charlotte Hornets,196.35517441396922,5.309650701825458,102.0,96.0
+San Antonio Spurs vs Denver Nuggets,San Antonio Spurs,Denver Nuggets,206.95296071436934,7.393179839605491,108.0,100.0
+San Antonio Spurs vs Indiana Pacers,San Antonio Spurs,Indiana Pacers,196.71848907327472,4.760112238130404,101.0,96.0
+San Antonio Spurs vs Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,192.52681864724917,5.049016274386256,100.0,94.0
+San Antonio Spurs vs Miami Heat,San Antonio Spurs,Miami Heat,192.77399691504462,4.993514762787873,99.0,94.0
+San Antonio Spurs vs New York Knicks,San Antonio Spurs,New York Knicks,196.41196979646338,10.364054669288354,104.0,94.0
+San Antonio Spurs vs Phoenix Suns,San Antonio Spurs,Phoenix Suns,206.38069097487374,9.643072470336715,109.0,99.0
+San Antonio Spurs vs Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,204.00322440429943,4.02970064978995,105.0,101.0
+San Antonio Spurs vs Sacramento Kings,San Antonio Spurs,Sacramento Kings,205.1637607663281,8.53773106049861,107.0,99.0
+San Antonio Spurs vs Toronto Raptors,San Antonio Spurs,Toronto Raptors,199.10057204996275,2.176314014317874,101.0,99.0
+San Antonio Spurs vs Utah Jazz,San Antonio Spurs,Utah Jazz,188.3915607915024,3.145531265316222,97.0,93.0
+San Antonio Spurs vs Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,200.56902659482097,0.15748138238303833,101.0,101.0
+San Antonio Spurs vs Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,199.0458224313063,5.558396642099744,103.0,97.0
+San Antonio Spurs vs Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,203.1607361464608,0.5607888160297905,102.0,101.0
+San Antonio Spurs vs Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,202.97825590501628,9.634686410447319,107.0,97.0
+San Antonio Spurs vs Orlando Magic,San Antonio Spurs,Orlando Magic,198.47802054477899,9.661622512061529,105.0,95.0
+San Antonio Spurs vs Chicago Bulls,San Antonio Spurs,Chicago Bulls,197.19423409482465,4.744238226557867,102.0,97.0
+San Antonio Spurs vs Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,196.5162026540293,6.693882472763157,102.0,95.0
+San Antonio Spurs vs Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,197.1680428479039,2.8054891934652555,100.0,98.0
+San Antonio Spurs vs Detroit Pistons,San Antonio Spurs,Detroit Pistons,196.38311036841952,5.836542550874896,102.0,96.0
+San Antonio Spurs vs Golden State Warriors,San Antonio Spurs,Golden State Warriors,209.5534773309742,-4.922159359753071,103.0,108.0
+San Antonio Spurs vs Houston Rockets,San Antonio Spurs,Houston Rockets,208.6784798733093,2.665177700262157,107.0,104.0
+San Antonio Spurs vs Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,205.11383679506986,1.4731217162326842,104.0,102.0
+San Antonio Spurs vs Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,197.69705336191566,13.467152022684502,106.0,93.0
+San Antonio Spurs vs Washington Wizards,San Antonio Spurs,Washington Wizards,201.69256791962442,4.324349258343156,103.0,99.0
+San Antonio Spurs vs Brooklyn Nets,San Antonio Spurs,Brooklyn Nets,201.90716630129424,10.673460345486342,107.0,96.0
+Boston Celtics vs Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,210.16216847379332,6.609213770948189,109.0,102.0
+Boston Celtics vs New Orleans Pelicans,Boston Celtics,New Orleans Pelicans,207.99049751992652,0.3511530745243743,105.0,104.0
+Boston Celtics vs San Antonio Spurs,Boston Celtics,San Antonio Spurs,202.21239349529117,-9.267144209502636,97.0,106.0
+Boston Celtics vs Charlotte Hornets,Boston Celtics,Charlotte Hornets,203.5683885236287,-1.1309602094408011,102.0,103.0
+Boston Celtics vs Denver Nuggets,Boston Celtics,Denver Nuggets,214.16617482402881,0.952568928339232,108.0,107.0
+Boston Celtics vs Indiana Pacers,Boston Celtics,Indiana Pacers,203.9317031829342,-1.680498673135853,102.0,104.0
+Boston Celtics vs Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,199.74003275690865,-1.391594636880002,100.0,101.0
+Boston Celtics vs Miami Heat,Boston Celtics,Miami Heat,199.9872110247041,-1.4470961484783849,100.0,102.0
+Boston Celtics vs New York Knicks,Boston Celtics,New York Knicks,203.62518390612286,3.923443758022095,105.0,101.0
+Boston Celtics vs Phoenix Suns,Boston Celtics,Phoenix Suns,213.59390508453322,3.2024615590704584,109.0,106.0
+Boston Celtics vs Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,211.2164385139589,-2.4109102614763067,105.0,107.0
+Boston Celtics vs Sacramento Kings,Boston Celtics,Sacramento Kings,212.37697487598757,2.0971201492323526,108.0,105.0
+Boston Celtics vs Toronto Raptors,Boston Celtics,Toronto Raptors,206.31378615962223,-4.264296896948384,102.0,106.0
+Boston Celtics vs Utah Jazz,Boston Celtics,Utah Jazz,195.60477490116187,-3.295079645950036,97.0,100.0
+Boston Celtics vs Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,207.78224070448044,-6.283129528883219,101.0,108.0
+Boston Celtics vs Dallas Mavericks,Boston Celtics,Dallas Mavericks,206.25903654096578,-0.8822142691665134,104.0,104.0
+Boston Celtics vs Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,210.37395025612028,-5.879822095236467,103.0,109.0
+Boston Celtics vs Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,210.19147001467576,3.194075499181061,107.0,104.0
+Boston Celtics vs Orlando Magic,Boston Celtics,Orlando Magic,205.69123465443846,3.2210116007952707,105.0,102.0
+Boston Celtics vs Chicago Bulls,Boston Celtics,Chicago Bulls,204.40744820448413,-1.696372684708391,102.0,104.0
+Boston Celtics vs Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,203.7294167636888,0.253271561496899,103.0,102.0
+Boston Celtics vs Atlanta Hawks,Boston Celtics,Atlanta Hawks,204.38125695756338,-3.6351217178010025,101.0,105.0
+Boston Celtics vs Detroit Pistons,Boston Celtics,Detroit Pistons,203.596324478079,-0.6040683603913615,102.0,102.0
+Boston Celtics vs Golden State Warriors,Boston Celtics,Golden State Warriors,216.76669144063368,-11.362770271019329,103.0,114.0
+Boston Celtics vs Houston Rockets,Boston Celtics,Houston Rockets,215.89169398296877,-3.775433211004101,106.0,110.0
+Boston Celtics vs Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,212.32705090472933,-4.967489195033574,104.0,109.0
+Boston Celtics vs Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,204.91026747157514,7.0265411114182434,106.0,99.0
+Boston Celtics vs Washington Wizards,Boston Celtics,Washington Wizards,208.9057820292839,-2.1162616529231006,104.0,106.0
+Boston Celtics vs Brooklyn Nets,Boston Celtics,Brooklyn Nets,209.12038041095371,4.232849434220084,107.0,102.0
+Charlotte Hornets vs Los Angeles Lakers,Charlotte Hornets,Los Angeles Lakers,204.30494939247131,4.913640682152613,105.0,100.0
+Charlotte Hornets vs New Orleans Pelicans,Charlotte Hornets,New Orleans Pelicans,202.13327843860458,-1.3444200142712024,101.0,102.0
+Charlotte Hornets vs San Antonio Spurs,Charlotte Hornets,San Antonio Spurs,196.35517441396922,-10.962717298298212,93.0,104.0
+Charlotte Hornets vs Boston Celtics,Charlotte Hornets,Boston Celtics,203.5683885236287,-4.522106387031954,100.0,104.0
+Charlotte Hornets vs Denver Nuggets,Charlotte Hornets,Denver Nuggets,208.30895574270687,-0.7430041604563447,104.0,105.0
+Charlotte Hornets vs Indiana Pacers,Charlotte Hornets,Indiana Pacers,198.07448410161226,-3.3760717619314295,98.0,101.0
+Charlotte Hornets vs Memphis Grizzlies,Charlotte Hornets,Memphis Grizzlies,193.88281367558665,-3.0871677256755787,96.0,99.0
+Charlotte Hornets vs Miami Heat,Charlotte Hornets,Miami Heat,194.1299919433821,-3.142669237273962,96.0,99.0
+Charlotte Hornets vs New York Knicks,Charlotte Hornets,New York Knicks,197.7679648248009,2.2278706692265184,101.0,99.0
+Charlotte Hornets vs Phoenix Suns,Charlotte Hornets,Phoenix Suns,207.73668600321128,1.5068884702748817,105.0,103.0
+Charlotte Hornets vs Portland Trail Blazers,Charlotte Hornets,Portland Trail Blazers,205.35921943263696,-4.106483350271883,101.0,105.0
+Charlotte Hornets vs Sacramento Kings,Charlotte Hornets,Sacramento Kings,206.51975579466563,0.40154706043677546,104.0,103.0
+Charlotte Hornets vs Toronto Raptors,Charlotte Hornets,Toronto Raptors,200.45656707830028,-5.9598699857439605,98.0,104.0
+Charlotte Hornets vs Utah Jazz,Charlotte Hornets,Utah Jazz,189.74755581983987,-4.990652734745613,93.0,98.0
+Charlotte Hornets vs Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,201.92502162315844,-7.978702617678795,97.0,105.0
+Charlotte Hornets vs Dallas Mavericks,Charlotte Hornets,Dallas Mavericks,200.40181745964384,-2.57778735796209,100.0,102.0
+Charlotte Hornets vs Los Angeles Clippers,Charlotte Hornets,Los Angeles Clippers,204.51673117479834,-7.575395184032043,99.0,106.0
+Charlotte Hornets vs Minnesota Timberwolves,Charlotte Hornets,Minnesota Timberwolves,204.33425093335376,1.4985024103854845,104.0,102.0
+Charlotte Hornets vs Orlando Magic,Charlotte Hornets,Orlando Magic,199.83401557311646,1.525438511999694,101.0,99.0
+Charlotte Hornets vs Chicago Bulls,Charlotte Hornets,Chicago Bulls,198.55022912316218,-3.3919457735039678,98.0,101.0
+Charlotte Hornets vs Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,197.8721976823668,-1.4423015272986777,99.0,100.0
+Charlotte Hornets vs Atlanta Hawks,Charlotte Hornets,Atlanta Hawks,198.52403787624138,-5.330694806596579,97.0,102.0
+Charlotte Hornets vs Detroit Pistons,Charlotte Hornets,Detroit Pistons,197.739105396757,-2.299641449186938,98.0,100.0
+Charlotte Hornets vs Golden State Warriors,Charlotte Hornets,Golden State Warriors,210.90947235931168,-13.058343359814906,100.0,113.0
+Charlotte Hornets vs Houston Rockets,Charlotte Hornets,Houston Rockets,210.03447490164683,-5.471006299799678,103.0,108.0
+Charlotte Hornets vs Oklahoma City Thunder,Charlotte Hornets,Oklahoma City Thunder,206.46983182340733,-6.6630622838291504,100.0,107.0
+Charlotte Hornets vs Philadelphia 76ers,Charlotte Hornets,Philadelphia 76ers,199.0530483902532,5.330968022622667,103.0,97.0
+Charlotte Hornets vs Washington Wizards,Charlotte Hornets,Washington Wizards,203.04856294796195,-3.8118347417186778,100.0,104.0
+Charlotte Hornets vs Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,203.2631613296317,2.5372763454245075,104.0,101.0
+Denver Nuggets vs Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,214.9027356928715,2.830111544372579,110.0,107.0
+Denver Nuggets vs New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,212.7310647390047,-3.4279491520512355,105.0,108.0
+Denver Nuggets vs San Antonio Spurs,Denver Nuggets,San Antonio Spurs,206.95296071436934,-13.046246436078246,97.0,110.0
+Denver Nuggets vs Boston Celtics,Denver Nuggets,Boston Celtics,214.16617482402881,-6.605635524811987,104.0,111.0
+Denver Nuggets vs Charlotte Hornets,Denver Nuggets,Charlotte Hornets,208.30895574270687,-4.9100624360164105,102.0,107.0
+Denver Nuggets vs Indiana Pacers,Denver Nuggets,Indiana Pacers,208.67227040201243,-5.459600899711463,102.0,108.0
+Denver Nuggets vs Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,204.48059997598682,-5.170696863455612,100.0,105.0
+Denver Nuggets vs Miami Heat,Denver Nuggets,Miami Heat,204.72777824378227,-5.226198375053995,101.0,106.0
+Denver Nuggets vs New York Knicks,Denver Nuggets,New York Knicks,208.36575112520103,0.14434153144648532,105.0,105.0
+Denver Nuggets vs Phoenix Suns,Denver Nuggets,Phoenix Suns,218.33447230361145,-0.5766406675051514,109.0,110.0
+Denver Nuggets vs Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,215.95700573303708,-6.1900124880519165,105.0,111.0
+Denver Nuggets vs Sacramento Kings,Denver Nuggets,Sacramento Kings,217.11754209506574,-1.6819820773432577,108.0,110.0
+Denver Nuggets vs Toronto Raptors,Denver Nuggets,Toronto Raptors,211.05435337870045,-8.043399123523994,102.0,110.0
+Denver Nuggets vs Utah Jazz,Denver Nuggets,Utah Jazz,200.34534212024005,-7.074181872525646,97.0,104.0
+Denver Nuggets vs Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,212.52280792355867,-10.062231755458829,102.0,112.0
+Denver Nuggets vs Dallas Mavericks,Denver Nuggets,Dallas Mavericks,210.99960376004395,-4.661316495742123,103.0,108.0
+Denver Nuggets vs Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,215.1145174751985,-9.658924321812076,103.0,113.0
+Denver Nuggets vs Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,214.93203723375393,-0.5850267273945486,108.0,109.0
+Denver Nuggets vs Orlando Magic,Denver Nuggets,Orlando Magic,210.43180187351663,-0.5580906257803391,106.0,106.0
+Denver Nuggets vs Chicago Bulls,Denver Nuggets,Chicago Bulls,209.1480154235623,-5.475474911284001,102.0,107.0
+Denver Nuggets vs Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,208.46998398276696,-3.525830665078711,103.0,107.0
+Denver Nuggets vs Atlanta Hawks,Denver Nuggets,Atlanta Hawks,209.1218241766416,-7.414223944376612,102.0,109.0
+Denver Nuggets vs Detroit Pistons,Denver Nuggets,Detroit Pistons,208.33689169715723,-4.383170586966971,102.0,107.0
+Denver Nuggets vs Golden State Warriors,Denver Nuggets,Golden State Warriors,221.5072586597119,-15.141872497594939,104.0,119.0
+Denver Nuggets vs Houston Rockets,Denver Nuggets,Houston Rockets,220.632261202047,-7.554535437579711,107.0,114.0
+Denver Nuggets vs Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,217.0676181238075,-8.746591421609184,104.0,113.0
+Denver Nuggets vs Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,209.6508346906533,3.247438884842634,107.0,104.0
+Denver Nuggets vs Washington Wizards,Denver Nuggets,Washington Wizards,213.64634924836213,-5.89536387949871,104.0,110.0
+Denver Nuggets vs Brooklyn Nets,Denver Nuggets,Brooklyn Nets,213.8609476300319,0.4537472076444744,108.0,107.0
+Indiana Pacers vs Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,204.66826405177687,5.463179145847665,106.0,100.0
+Indiana Pacers vs New Orleans Pelicans,Indiana Pacers,New Orleans Pelicans,202.49659309791008,-0.7948815505761506,101.0,102.0
+Indiana Pacers vs San Antonio Spurs,Indiana Pacers,San Antonio Spurs,196.71848907327472,-10.41317883460316,94.0,105.0
+Indiana Pacers vs Boston Celtics,Indiana Pacers,Boston Celtics,203.9317031829342,-3.9725679233369027,100.0,104.0
+Indiana Pacers vs Charlotte Hornets,Indiana Pacers,Charlotte Hornets,198.07448410161226,-2.276994834541326,98.0,101.0
+Indiana Pacers vs Denver Nuggets,Indiana Pacers,Denver Nuggets,208.67227040201243,-0.19346569676129288,105.0,105.0
+Indiana Pacers vs Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,194.2461283348922,-2.537629261980527,97.0,99.0
+Indiana Pacers vs Miami Heat,Indiana Pacers,Miami Heat,194.49330660268765,-2.5931307735789098,97.0,99.0
+Indiana Pacers vs New York Knicks,Indiana Pacers,New York Knicks,198.13127948410641,2.7774091329215707,101.0,99.0
+Indiana Pacers vs Phoenix Suns,Indiana Pacers,Phoenix Suns,208.10000066251683,2.056426933969934,106.0,104.0
+Indiana Pacers vs Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,205.72253409194246,-3.5569448865768316,102.0,105.0
+Indiana Pacers vs Sacramento Kings,Indiana Pacers,Sacramento Kings,206.88307045397113,0.9510855241318272,105.0,104.0
+Indiana Pacers vs Toronto Raptors,Indiana Pacers,Toronto Raptors,200.81988173760584,-5.410331522048908,98.0,104.0
+Indiana Pacers vs Utah Jazz,Indiana Pacers,Utah Jazz,190.11087047914543,-4.4411142710505604,93.0,98.0
+Indiana Pacers vs Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,202.28833628246406,-7.429164153983743,98.0,105.0
+Indiana Pacers vs Dallas Mavericks,Indiana Pacers,Dallas Mavericks,200.76513211894934,-2.0282488942670382,100.0,102.0
+Indiana Pacers vs Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,204.8800458341039,-7.025856720336991,100.0,107.0
+Indiana Pacers vs Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,204.69756559265932,2.0480408740805367,104.0,102.0
+Indiana Pacers vs Orlando Magic,Indiana Pacers,Orlando Magic,200.19733023242202,2.0749769756947463,102.0,99.0
+Indiana Pacers vs Chicago Bulls,Indiana Pacers,Chicago Bulls,198.91354378246768,-2.842407309808916,99.0,102.0
+Indiana Pacers vs Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,198.23551234167235,-0.8927630636036257,99.0,100.0
+Indiana Pacers vs Atlanta Hawks,Indiana Pacers,Atlanta Hawks,198.887352535547,-4.781156342901527,98.0,102.0
+Indiana Pacers vs Detroit Pistons,Indiana Pacers,Detroit Pistons,198.1024200560626,-1.7501029854918861,99.0,101.0
+Indiana Pacers vs Golden State Warriors,Indiana Pacers,Golden State Warriors,211.2727870186173,-12.508804896119853,100.0,112.0
+Indiana Pacers vs Houston Rockets,Indiana Pacers,Houston Rockets,210.3977895609524,-4.921467836104625,103.0,108.0
+Indiana Pacers vs Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,206.8331464827129,-6.113523820134098,101.0,107.0
+Indiana Pacers vs Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,199.4163630495587,5.880506486317719,103.0,98.0
+Indiana Pacers vs Washington Wizards,Indiana Pacers,Washington Wizards,203.4118776072675,-3.2622962780236255,101.0,104.0
+Indiana Pacers vs Brooklyn Nets,Indiana Pacers,Brooklyn Nets,203.62647598893727,3.0868148091195597,104.0,100.0
+Memphis Grizzlies vs Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,200.47659362575126,5.1742751095918145,104.0,98.0
+Memphis Grizzlies vs New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,198.30492267188453,-1.0837855868320014,99.0,100.0
+Memphis Grizzlies vs San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,192.52681864724917,-10.70208287085901,91.0,102.0
+Memphis Grizzlies vs Boston Celtics,Memphis Grizzlies,Boston Celtics,199.74003275690865,-4.261471959592754,98.0,102.0
+Memphis Grizzlies vs Charlotte Hornets,Memphis Grizzlies,Charlotte Hornets,193.88281367558665,-2.565898870797177,96.0,98.0
+Memphis Grizzlies vs Denver Nuggets,Memphis Grizzlies,Denver Nuggets,204.48059997598682,-0.4823697330171437,103.0,103.0
+Memphis Grizzlies vs Indiana Pacers,Memphis Grizzlies,Indiana Pacers,194.2461283348922,-3.1154373344922286,96.0,99.0
+Memphis Grizzlies vs Miami Heat,Memphis Grizzlies,Miami Heat,190.30163617666204,-2.8820348098347606,94.0,97.0
+Memphis Grizzlies vs New York Knicks,Memphis Grizzlies,New York Knicks,193.93960905808086,2.4885050966657194,99.0,96.0
+Memphis Grizzlies vs Phoenix Suns,Memphis Grizzlies,Phoenix Suns,203.90833023649122,1.7675228977140827,103.0,101.0
+Memphis Grizzlies vs Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,201.5308636659169,-3.8458489228326824,99.0,103.0
+Memphis Grizzlies vs Sacramento Kings,Memphis Grizzlies,Sacramento Kings,202.69140002794558,0.6621814878759764,102.0,101.0
+Memphis Grizzlies vs Toronto Raptors,Memphis Grizzlies,Toronto Raptors,196.62821131158023,-5.699235558304759,96.0,101.0
+Memphis Grizzlies vs Utah Jazz,Memphis Grizzlies,Utah Jazz,185.91920005311982,-4.730018307306412,91.0,96.0
+Memphis Grizzlies vs Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,198.0966658564384,-7.718068190239595,96.0,103.0
+Memphis Grizzlies vs Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,196.5734616929238,-2.317152930522889,98.0,100.0
+Memphis Grizzlies vs Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,200.6883754080783,-7.314760756592843,97.0,104.0
+Memphis Grizzlies vs Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,200.5058951666337,1.7591368378246854,102.0,100.0
+Memphis Grizzlies vs Orlando Magic,Memphis Grizzlies,Orlando Magic,196.0056598063964,1.786072939438895,99.0,98.0
+Memphis Grizzlies vs Chicago Bulls,Memphis Grizzlies,Chicago Bulls,194.72187335644213,-3.131311346064767,96.0,99.0
+Memphis Grizzlies vs Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,194.04384191564674,-1.1816670998594767,97.0,98.0
+Memphis Grizzlies vs Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,194.69568210952133,-5.070060379157378,95.0,100.0
+Memphis Grizzlies vs Detroit Pistons,Memphis Grizzlies,Detroit Pistons,193.91074963003695,-2.039007021747737,96.0,98.0
+Memphis Grizzlies vs Golden State Warriors,Memphis Grizzlies,Golden State Warriors,207.08111659259163,-12.797708932375704,98.0,111.0
+Memphis Grizzlies vs Houston Rockets,Memphis Grizzlies,Houston Rockets,206.20611913492678,-5.210371872360477,101.0,106.0
+Memphis Grizzlies vs Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,202.64147605668728,-6.402427856389949,99.0,105.0
+Memphis Grizzlies vs Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,195.22469262353314,5.591602450061869,101.0,95.0
+Memphis Grizzlies vs Washington Wizards,Memphis Grizzlies,Washington Wizards,199.2202071812419,-3.5512003142794764,98.0,102.0
+Memphis Grizzlies vs Brooklyn Nets,Memphis Grizzlies,Brooklyn Nets,199.43480556291166,2.7979107728637085,102.0,99.0
+Miami Heat vs Los Angeles Lakers,Miami Heat,Los Angeles Lakers,200.7237718935467,5.229776621190197,104.0,98.0
+Miami Heat vs New Orleans Pelicans,Miami Heat,New Orleans Pelicans,198.55210093967997,-1.0282840752336186,100.0,101.0
+Miami Heat vs San Antonio Spurs,Miami Heat,San Antonio Spurs,192.77399691504462,-10.646581359260628,92.0,103.0
+Miami Heat vs Boston Celtics,Miami Heat,Boston Celtics,199.9872110247041,-4.205970447994371,98.0,102.0
+Miami Heat vs Charlotte Hornets,Miami Heat,Charlotte Hornets,194.1299919433821,-2.5103973591987936,96.0,99.0
+Miami Heat vs Denver Nuggets,Miami Heat,Denver Nuggets,204.72777824378227,-0.4268682214187609,103.0,103.0
+Miami Heat vs Indiana Pacers,Miami Heat,Indiana Pacers,194.49330660268765,-3.059935822893846,97.0,100.0
+Miami Heat vs Memphis Grizzlies,Miami Heat,Memphis Grizzlies,190.30163617666204,-2.771031786637995,94.0,97.0
+Miami Heat vs New York Knicks,Miami Heat,New York Knicks,194.1867873258763,2.544006608264102,99.0,96.0
+Miami Heat vs Phoenix Suns,Miami Heat,Phoenix Suns,204.15550850428667,1.8230244093124655,103.0,102.0
+Miami Heat vs Portland Trail Blazers,Miami Heat,Portland Trail Blazers,201.77804193371236,-3.7903474112342996,99.0,103.0
+Miami Heat vs Sacramento Kings,Miami Heat,Sacramento Kings,202.93857829574102,0.7176829994743592,103.0,102.0
+Miami Heat vs Toronto Raptors,Miami Heat,Toronto Raptors,196.87538957937568,-5.643734046706376,96.0,102.0
+Miami Heat vs Utah Jazz,Miami Heat,Utah Jazz,186.16637832091527,-4.674516795708029,91.0,96.0
+Miami Heat vs Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,198.34384412423384,-7.6625666786412125,96.0,104.0
+Miami Heat vs Dallas Mavericks,Miami Heat,Dallas Mavericks,196.82063996071923,-2.2616514189245063,98.0,100.0
+Miami Heat vs Los Angeles Clippers,Miami Heat,Los Angeles Clippers,200.93555367587373,-7.25925924499446,97.0,105.0
+Miami Heat vs Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,200.75307343442915,1.8146383494230682,102.0,100.0
+Miami Heat vs Orlando Magic,Miami Heat,Orlando Magic,196.25283807419186,1.8415744510372778,100.0,98.0
+Miami Heat vs Chicago Bulls,Miami Heat,Chicago Bulls,194.96905162423758,-3.075809834466384,97.0,100.0
+Miami Heat vs Milwaukee Bucks,Miami Heat,Milwaukee Bucks,194.29102018344219,-1.126165588261094,97.0,98.0
+Miami Heat vs Atlanta Hawks,Miami Heat,Atlanta Hawks,194.94286037731678,-5.014558867558995,95.0,100.0
+Miami Heat vs Detroit Pistons,Miami Heat,Detroit Pistons,194.1579278978324,-1.9835055101493544,97.0,99.0
+Miami Heat vs Golden State Warriors,Miami Heat,Golden State Warriors,207.32829486038708,-12.742207420777321,98.0,111.0
+Miami Heat vs Houston Rockets,Miami Heat,Houston Rockets,206.45329740272223,-5.154870360762094,101.0,106.0
+Miami Heat vs Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,202.88865432448273,-6.346926344791566,99.0,105.0
+Miami Heat vs Philadelphia 76ers,Miami Heat,Philadelphia 76ers,195.4718708913286,5.647103961660251,101.0,96.0
+Miami Heat vs Washington Wizards,Miami Heat,Washington Wizards,199.46738544903735,-3.4956988026810936,99.0,102.0
+Miami Heat vs Brooklyn Nets,Miami Heat,Brooklyn Nets,199.6819838307071,2.8534122844620913,102.0,99.0
+New York Knicks vs Los Angeles Lakers,New York Knicks,Los Angeles Lakers,204.36174477496553,-0.14076328531028404,102.0,102.0
+New York Knicks vs New Orleans Pelicans,New York Knicks,New Orleans Pelicans,202.19007382109874,-6.398823981734099,99.0,105.0
+New York Knicks vs San Antonio Spurs,New York Knicks,San Antonio Spurs,196.41196979646338,-16.01712126576111,90.0,107.0
+New York Knicks vs Boston Celtics,New York Knicks,Boston Celtics,203.62518390612286,-9.57651035449485,97.0,107.0
+New York Knicks vs Charlotte Hornets,New York Knicks,Charlotte Hornets,197.7679648248009,-7.8809372656992736,95.0,103.0
+New York Knicks vs Denver Nuggets,New York Knicks,Denver Nuggets,208.36575112520103,-5.79740812791924,102.0,108.0
+New York Knicks vs Indiana Pacers,New York Knicks,Indiana Pacers,198.13127948410641,-8.430475729394326,95.0,104.0
+New York Knicks vs Memphis Grizzlies,New York Knicks,Memphis Grizzlies,193.93960905808086,-8.141571693138475,93.0,101.0
+New York Knicks vs Miami Heat,New York Knicks,Miami Heat,194.1867873258763,-8.197073204736858,93.0,102.0
+New York Knicks vs Phoenix Suns,New York Knicks,Phoenix Suns,207.79348138570543,-3.5475154971880145,103.0,106.0
+New York Knicks vs Portland Trail Blazers,New York Knicks,Portland Trail Blazers,205.41601481513112,-9.16088731773478,98.0,107.0
+New York Knicks vs Sacramento Kings,New York Knicks,Sacramento Kings,206.57655117715979,-4.652856907026121,101.0,106.0
+New York Knicks vs Toronto Raptors,New York Knicks,Toronto Raptors,200.51336246079444,-11.014273953206857,95.0,107.0
+New York Knicks vs Utah Jazz,New York Knicks,Utah Jazz,189.8043512023341,-10.045056702208509,90.0,100.0
+New York Knicks vs Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,201.98181700565266,-13.033106585141692,95.0,108.0
+New York Knicks vs Dallas Mavericks,New York Knicks,Dallas Mavericks,200.458612842138,-7.632191325424987,97.0,105.0
+New York Knicks vs Los Angeles Clippers,New York Knicks,Los Angeles Clippers,204.5735265572925,-12.62979915149494,96.0,109.0
+New York Knicks vs Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,204.39104631584797,-3.5559015570774117,101.0,105.0
+New York Knicks vs Orlando Magic,New York Knicks,Orlando Magic,199.89081095561068,-3.528965455463202,99.0,103.0
+New York Knicks vs Chicago Bulls,New York Knicks,Chicago Bulls,198.60702450565634,-8.446349740966864,96.0,104.0
+New York Knicks vs Milwaukee Bucks,New York Knicks,Milwaukee Bucks,197.928993064861,-6.496705494761574,96.0,103.0
+New York Knicks vs Atlanta Hawks,New York Knicks,Atlanta Hawks,198.5808332587356,-10.385098774059475,95.0,105.0
+New York Knicks vs Detroit Pistons,New York Knicks,Detroit Pistons,197.7959007792512,-7.354045416649834,96.0,103.0
+New York Knicks vs Golden State Warriors,New York Knicks,Golden State Warriors,210.9662677418059,-18.112747327277802,97.0,115.0
+New York Knicks vs Houston Rockets,New York Knicks,Houston Rockets,210.091270284141,-10.525410267262574,100.0,111.0
+New York Knicks vs Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,206.52662720590155,-11.717466251292045,98.0,110.0
+New York Knicks vs Philadelphia 76ers,New York Knicks,Philadelphia 76ers,199.10984377274735,0.276564055159771,100.0,100.0
+New York Knicks vs Washington Wizards,New York Knicks,Washington Wizards,203.1053583304561,-8.866238709181573,98.0,107.0
+New York Knicks vs Brooklyn Nets,New York Knicks,Brooklyn Nets,203.31995671212593,-2.5171276220383887,101.0,103.0
+Phoenix Suns vs Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,214.3304659533759,0.5802189136413527,108.0,108.0
+Phoenix Suns vs New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,212.1587949995091,-5.677841782782462,104.0,109.0
+Phoenix Suns vs San Antonio Spurs,Phoenix Suns,San Antonio Spurs,206.38069097487374,-15.29613906680947,96.0,111.0
+Phoenix Suns vs Boston Celtics,Phoenix Suns,Boston Celtics,213.59390508453322,-8.855528155543213,103.0,112.0
+Phoenix Suns vs Charlotte Hornets,Phoenix Suns,Charlotte Hornets,207.73668600321128,-7.159955066747637,101.0,108.0
+Phoenix Suns vs Denver Nuggets,Phoenix Suns,Denver Nuggets,218.33447230361145,-5.076425928967604,107.0,113.0
+Phoenix Suns vs Indiana Pacers,Phoenix Suns,Indiana Pacers,208.10000066251683,-7.709493530442689,100.0,108.0
+Phoenix Suns vs Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,203.90833023649122,-7.420589494186839,99.0,106.0
+Phoenix Suns vs Miami Heat,Phoenix Suns,Miami Heat,204.15550850428667,-7.4760910057852215,99.0,106.0
+Phoenix Suns vs New York Knicks,Phoenix Suns,New York Knicks,207.79348138570543,-2.105551099284741,103.0,105.0
+Phoenix Suns vs Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,215.38473599354148,-8.439905118783143,104.0,112.0
+Phoenix Suns vs Sacramento Kings,Phoenix Suns,Sacramento Kings,216.54527235557015,-3.931874708074484,107.0,111.0
+Phoenix Suns vs Toronto Raptors,Phoenix Suns,Toronto Raptors,210.48208363920486,-10.29329175425522,101.0,111.0
+Phoenix Suns vs Utah Jazz,Phoenix Suns,Utah Jazz,199.77307238074445,-9.324074503256872,96.0,106.0
+Phoenix Suns vs Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,211.95053818406308,-12.312124386190055,101.0,113.0
+Phoenix Suns vs Dallas Mavericks,Phoenix Suns,Dallas Mavericks,210.42733402054836,-6.91120912647335,102.0,109.0
+Phoenix Suns vs Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,214.54224773570292,-11.908816952543303,102.0,114.0
+Phoenix Suns vs Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,214.35976749425834,-2.834919358125775,106.0,109.0
+Phoenix Suns vs Orlando Magic,Phoenix Suns,Orlando Magic,209.85953213402104,-2.8079832565115654,104.0,107.0
+Phoenix Suns vs Chicago Bulls,Phoenix Suns,Chicago Bulls,208.5757456840667,-7.725367542015228,101.0,109.0
+Phoenix Suns vs Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,207.89771424327137,-5.775723295809938,102.0,108.0
+Phoenix Suns vs Atlanta Hawks,Phoenix Suns,Atlanta Hawks,208.549554437146,-9.664116575107839,100.0,109.0
+Phoenix Suns vs Detroit Pistons,Phoenix Suns,Detroit Pistons,207.76462195766163,-6.633063217698197,102.0,108.0
+Phoenix Suns vs Golden State Warriors,Phoenix Suns,Golden State Warriors,220.9349889202163,-17.391765128326163,102.0,120.0
+Phoenix Suns vs Houston Rockets,Phoenix Suns,Houston Rockets,220.0599914625514,-9.804428068310937,106.0,116.0
+Phoenix Suns vs Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,216.4953483843119,-10.99648405234041,103.0,114.0
+Phoenix Suns vs Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,209.07856495115772,0.9975462541114077,106.0,105.0
+Phoenix Suns vs Washington Wizards,Phoenix Suns,Washington Wizards,213.07407950886653,-8.145256510229936,103.0,111.0
+Phoenix Suns vs Brooklyn Nets,Phoenix Suns,Brooklyn Nets,213.2886778905363,-1.796145423086752,106.0,108.0
+Portland Trail Blazers vs Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,211.95299938280158,6.193590734188119,109.0,103.0
+Portland Trail Blazers vs New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,209.78132842893478,-0.06446996223569679,106.0,106.0
+Portland Trail Blazers vs San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,204.00322440429943,-9.682767246262706,97.0,107.0
+Portland Trail Blazers vs Boston Celtics,Portland Trail Blazers,Boston Celtics,211.2164385139589,-3.242156334996449,104.0,107.0
+Portland Trail Blazers vs Charlotte Hornets,Portland Trail Blazers,Charlotte Hornets,205.35921943263696,-1.5465832462008717,102.0,104.0
+Portland Trail Blazers vs Denver Nuggets,Portland Trail Blazers,Denver Nuggets,215.95700573303708,0.5369458915791614,109.0,108.0
+Portland Trail Blazers vs Indiana Pacers,Portland Trail Blazers,Indiana Pacers,205.72253409194246,-2.096121709895924,102.0,104.0
+Portland Trail Blazers vs Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,201.5308636659169,-1.807217673640073,100.0,102.0
+Portland Trail Blazers vs Miami Heat,Portland Trail Blazers,Miami Heat,201.77804193371236,-1.862719185238456,100.0,102.0
+Portland Trail Blazers vs New York Knicks,Portland Trail Blazers,New York Knicks,205.41601481513112,3.5078207212620245,105.0,101.0
+Portland Trail Blazers vs Phoenix Suns,Portland Trail Blazers,Phoenix Suns,215.38473599354148,2.7868385223103878,109.0,107.0
+Portland Trail Blazers vs Sacramento Kings,Portland Trail Blazers,Sacramento Kings,214.16780578499583,1.681497112472281,108.0,107.0
+Portland Trail Blazers vs Toronto Raptors,Portland Trail Blazers,Toronto Raptors,208.1046170686305,-4.6799199337084545,102.0,107.0
+Portland Trail Blazers vs Utah Jazz,Portland Trail Blazers,Utah Jazz,197.39560581017014,-3.7107026827101066,98.0,101.0
+Portland Trail Blazers vs Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,209.5730716134887,-6.698752565643289,102.0,108.0
+Portland Trail Blazers vs Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,208.04986744997404,-1.2978373059265842,104.0,105.0
+Portland Trail Blazers vs Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,212.16478116512855,-6.295445131996537,103.0,109.0
+Portland Trail Blazers vs Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,211.98230092368402,2.7784524624209905,108.0,105.0
+Portland Trail Blazers vs Orlando Magic,Portland Trail Blazers,Orlando Magic,207.48206556344672,2.8053885640352,105.0,103.0
+Portland Trail Blazers vs Chicago Bulls,Portland Trail Blazers,Chicago Bulls,206.1982791134924,-2.111995721468462,103.0,105.0
+Portland Trail Blazers vs Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,205.52024767269705,-0.16235147526317162,103.0,103.0
+Portland Trail Blazers vs Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,206.17208786657164,-4.050744754561073,101.0,105.0
+Portland Trail Blazers vs Detroit Pistons,Portland Trail Blazers,Detroit Pistons,205.38715538708726,-1.0196913971514323,103.0,104.0
+Portland Trail Blazers vs Golden State Warriors,Portland Trail Blazers,Golden State Warriors,218.55752234964194,-11.7783933077794,104.0,116.0
+Portland Trail Blazers vs Houston Rockets,Portland Trail Blazers,Houston Rockets,217.68252489197704,-4.1910562477641715,107.0,112.0
+Portland Trail Blazers vs Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,214.1178818137376,-5.383112231793644,104.0,110.0
+Portland Trail Blazers vs Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,206.7010983805834,6.610918074658173,107.0,101.0
+Portland Trail Blazers vs Washington Wizards,Portland Trail Blazers,Washington Wizards,210.69661293829216,-2.5318846896831717,105.0,107.0
+Portland Trail Blazers vs Brooklyn Nets,Portland Trail Blazers,Brooklyn Nets,210.91121131996198,3.8172263974600136,108.0,104.0
+Sacramento Kings vs Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,213.11353574483024,1.6855603234794585,108.0,106.0
+Sacramento Kings vs New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,210.94186479096345,-4.572500372944356,104.0,108.0
+Sacramento Kings vs San Antonio Spurs,Sacramento Kings,San Antonio Spurs,205.1637607663281,-14.190797656971364,96.0,111.0
+Sacramento Kings vs Boston Celtics,Sacramento Kings,Boston Celtics,212.37697487598757,-7.750186745705108,103.0,111.0
+Sacramento Kings vs Charlotte Hornets,Sacramento Kings,Charlotte Hornets,206.51975579466563,-6.054613656909531,101.0,107.0
+Sacramento Kings vs Denver Nuggets,Sacramento Kings,Denver Nuggets,217.11754209506574,-3.971084519129498,107.0,111.0
+Sacramento Kings vs Indiana Pacers,Sacramento Kings,Indiana Pacers,206.88307045397113,-6.604152120604583,100.0,107.0
+Sacramento Kings vs Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,202.69140002794558,-6.315248084348732,99.0,105.0
+Sacramento Kings vs Miami Heat,Sacramento Kings,Miami Heat,202.93857829574102,-6.370749595947115,99.0,105.0
+Sacramento Kings vs New York Knicks,Sacramento Kings,New York Knicks,206.57655117715979,-1.0002096894466348,103.0,104.0
+Sacramento Kings vs Phoenix Suns,Sacramento Kings,Phoenix Suns,216.54527235557015,-1.7211918883982715,108.0,109.0
+Sacramento Kings vs Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,214.16780578499583,-7.334563708945037,104.0,111.0
+Sacramento Kings vs Toronto Raptors,Sacramento Kings,Toronto Raptors,209.26515343065915,-9.187950344417112,100.0,110.0
+Sacramento Kings vs Utah Jazz,Sacramento Kings,Utah Jazz,198.5561421721988,-8.218733093418766,96.0,104.0
+Sacramento Kings vs Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,210.73360797551737,-11.206782976351949,100.0,112.0
+Sacramento Kings vs Dallas Mavericks,Sacramento Kings,Dallas Mavericks,209.2104038120027,-5.805867716635243,102.0,108.0
+Sacramento Kings vs Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,213.3253175271572,-10.803475542705197,102.0,113.0
+Sacramento Kings vs Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,213.1428372857127,-1.7295779482876688,106.0,108.0
+Sacramento Kings vs Orlando Magic,Sacramento Kings,Orlando Magic,208.6426019254754,-1.7026418466734592,104.0,106.0
+Sacramento Kings vs Chicago Bulls,Sacramento Kings,Chicago Bulls,207.35881547552106,-6.620026132177121,101.0,107.0
+Sacramento Kings vs Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,206.68078403472572,-4.670381885971831,102.0,106.0
+Sacramento Kings vs Atlanta Hawks,Sacramento Kings,Atlanta Hawks,207.3326242286003,-8.558775165269733,100.0,108.0
+Sacramento Kings vs Detroit Pistons,Sacramento Kings,Detroit Pistons,206.54769174911593,-5.527721807860091,101.0,107.0
+Sacramento Kings vs Golden State Warriors,Sacramento Kings,Golden State Warriors,219.7180587116706,-16.28642371848806,102.0,118.0
+Sacramento Kings vs Houston Rockets,Sacramento Kings,Houston Rockets,218.8430612540057,-8.699086658472831,106.0,114.0
+Sacramento Kings vs Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,215.27841817576626,-9.891142642502302,104.0,114.0
+Sacramento Kings vs Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,207.86163474261207,2.1028876639495144,105.0,103.0
+Sacramento Kings vs Washington Wizards,Sacramento Kings,Washington Wizards,211.85714930032083,-7.0399151003918305,103.0,110.0
+Sacramento Kings vs Brooklyn Nets,Sacramento Kings,Brooklyn Nets,212.07174768199064,-0.6908040132486457,106.0,107.0
+Toronto Raptors vs Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,207.0503470284649,8.046977369660194,108.0,100.0
+Toronto Raptors vs New Orleans Pelicans,Toronto Raptors,New Orleans Pelicans,204.8786760745981,1.7889166732363804,104.0,102.0
+Toronto Raptors vs San Antonio Spurs,Toronto Raptors,San Antonio Spurs,199.10057204996275,-7.829380610790629,97.0,105.0
+Toronto Raptors vs Boston Celtics,Toronto Raptors,Boston Celtics,206.31378615962223,-1.3887696995243721,103.0,105.0
+Toronto Raptors vs Charlotte Hornets,Toronto Raptors,Charlotte Hornets,200.45656707830028,0.30680338927120454,101.0,101.0
+Toronto Raptors vs Denver Nuggets,Toronto Raptors,Denver Nuggets,211.05435337870045,2.3903325270512377,107.0,105.0
+Toronto Raptors vs Indiana Pacers,Toronto Raptors,Indiana Pacers,200.81988173760584,-0.24273507442384723,101.0,101.0
+Toronto Raptors vs Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,196.62821131158023,0.046168961832003585,99.0,99.0
+Toronto Raptors vs Miami Heat,Toronto Raptors,Miami Heat,196.87538957937568,-0.009332549766379206,99.0,99.0
+Toronto Raptors vs New York Knicks,Toronto Raptors,New York Knicks,200.51336246079444,5.361207356734102,104.0,98.0
+Toronto Raptors vs Phoenix Suns,Toronto Raptors,Phoenix Suns,210.48208363920486,4.640225157782464,108.0,103.0
+Toronto Raptors vs Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,208.1046170686305,-0.9731466627643013,104.0,105.0
+Toronto Raptors vs Sacramento Kings,Toronto Raptors,Sacramento Kings,209.26515343065915,3.5348837479443573,107.0,103.0
+Toronto Raptors vs Utah Jazz,Toronto Raptors,Utah Jazz,192.49295345583346,-1.8573160472380303,96.0,97.0
+Toronto Raptors vs Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,204.67041925915208,-4.845365930171214,101.0,105.0
+Toronto Raptors vs Dallas Mavericks,Toronto Raptors,Dallas Mavericks,203.14721509563736,0.5555493295454923,102.0,102.0
+Toronto Raptors vs Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,207.26212881079192,-4.442058496524462,102.0,107.0
+Toronto Raptors vs Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,207.07964856934734,4.631839097893067,106.0,102.0
+Toronto Raptors vs Orlando Magic,Toronto Raptors,Orlando Magic,202.57941320911004,4.658775199507277,104.0,99.0
+Toronto Raptors vs Chicago Bulls,Toronto Raptors,Chicago Bulls,201.2956267591557,-0.25860908599638543,101.0,102.0
+Toronto Raptors vs Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,200.61759531836037,1.6910351602089047,102.0,100.0
+Toronto Raptors vs Atlanta Hawks,Toronto Raptors,Atlanta Hawks,201.26943551223502,-2.197358119088997,100.0,102.0
+Toronto Raptors vs Detroit Pistons,Toronto Raptors,Detroit Pistons,200.48450303275064,0.8336952383206442,102.0,101.0
+Toronto Raptors vs Golden State Warriors,Toronto Raptors,Golden State Warriors,213.65486999530532,-9.925006672307322,103.0,113.0
+Toronto Raptors vs Houston Rockets,Toronto Raptors,Houston Rockets,212.77987253764041,-2.3376696122920952,106.0,108.0
+Toronto Raptors vs Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,209.21522945940092,-3.5297255963215677,103.0,106.0
+Toronto Raptors vs Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,201.79844602624672,8.46430471013025,105.0,97.0
+Toronto Raptors vs Washington Wizards,Toronto Raptors,Washington Wizards,205.79396058395554,-0.678498054211095,103.0,104.0
+Toronto Raptors vs Brooklyn Nets,Toronto Raptors,Brooklyn Nets,206.0085589656253,5.67061303293209,106.0,100.0
+Utah Jazz vs Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,196.3413357700045,7.077760118661848,102.0,95.0
+Utah Jazz vs New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,194.16966481613775,0.8196994222380325,98.0,97.0
+Utah Jazz vs San Antonio Spurs,Utah Jazz,San Antonio Spurs,188.3915607915024,-8.798597861788977,90.0,99.0
+Utah Jazz vs Boston Celtics,Utah Jazz,Boston Celtics,195.60477490116187,-2.3579869505227196,97.0,99.0
+Utah Jazz vs Charlotte Hornets,Utah Jazz,Charlotte Hornets,189.74755581983987,-0.6624138617271429,95.0,96.0
+Utah Jazz vs Denver Nuggets,Utah Jazz,Denver Nuggets,200.34534212024005,1.4211152760528907,102.0,100.0
+Utah Jazz vs Indiana Pacers,Utah Jazz,Indiana Pacers,190.11087047914543,-1.2119523254221949,95.0,97.0
+Utah Jazz vs Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,185.91920005311982,-0.9230482891663438,93.0,94.0
+Utah Jazz vs Miami Heat,Utah Jazz,Miami Heat,186.16637832091527,-0.9785498007647266,93.0,94.0
+Utah Jazz vs New York Knicks,Utah Jazz,New York Knicks,189.8043512023341,4.391990105735754,97.0,93.0
+Utah Jazz vs Phoenix Suns,Utah Jazz,Phoenix Suns,199.77307238074445,3.671007906784117,102.0,98.0
+Utah Jazz vs Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,197.39560581017014,-1.9423639137626487,98.0,100.0
+Utah Jazz vs Sacramento Kings,Utah Jazz,Sacramento Kings,198.5561421721988,2.5656664969460103,101.0,98.0
+Utah Jazz vs Toronto Raptors,Utah Jazz,Toronto Raptors,192.49295345583346,-3.795750549234725,95.0,99.0
+Utah Jazz vs Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,193.96140800069162,-5.814583181169561,94.0,100.0
+Utah Jazz vs Dallas Mavericks,Utah Jazz,Dallas Mavericks,192.438203837177,-0.41366792145285514,97.0,97.0
+Utah Jazz vs Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,196.5531175523315,-5.411275747522809,96.0,101.0
+Utah Jazz vs Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,196.37063731088693,3.662621846894719,101.0,97.0
+Utah Jazz vs Orlando Magic,Utah Jazz,Orlando Magic,191.87040195064964,3.6895579485089285,98.0,94.0
+Utah Jazz vs Chicago Bulls,Utah Jazz,Chicago Bulls,190.58661550069536,-1.2278263369947329,95.0,96.0
+Utah Jazz vs Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,189.90858405989997,0.7218179092105572,96.0,95.0
+Utah Jazz vs Atlanta Hawks,Utah Jazz,Atlanta Hawks,190.56042425377456,-3.1665753700873442,94.0,98.0
+Utah Jazz vs Detroit Pistons,Utah Jazz,Detroit Pistons,189.77549177429017,-0.13552201267770325,95.0,95.0
+Utah Jazz vs Golden State Warriors,Utah Jazz,Golden State Warriors,202.94585873684485,-10.89422392330567,96.0,107.0
+Utah Jazz vs Houston Rockets,Utah Jazz,Houston Rockets,202.07086127918,-3.3068868632904427,100.0,103.0
+Utah Jazz vs Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,198.5062182009405,-4.498942847319915,97.0,102.0
+Utah Jazz vs Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,191.08943476778637,7.495087459131902,100.0,92.0
+Utah Jazz vs Washington Wizards,Utah Jazz,Washington Wizards,195.08494932549513,-1.6477153052094424,97.0,99.0
+Utah Jazz vs Brooklyn Nets,Utah Jazz,Brooklyn Nets,195.2995477071649,4.701395781933742,100.0,96.0
+Cleveland Cavaliers vs Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,208.51880157332306,10.06581000159503,109.0,99.0
+Cleveland Cavaliers vs New Orleans Pelicans,Cleveland Cavaliers,New Orleans Pelicans,206.34713061945632,3.8077493051712152,106.0,102.0
+Cleveland Cavaliers vs San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,200.56902659482097,-5.810547978855794,97.0,103.0
+Cleveland Cavaliers vs Boston Celtics,Cleveland Cavaliers,Boston Celtics,207.78224070448044,0.6300629324104636,105.0,104.0
+Cleveland Cavaliers vs Charlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,201.92502162315844,2.3256360212060403,102.0,100.0
+Cleveland Cavaliers vs Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,212.52280792355867,4.409165158986074,109.0,105.0
+Cleveland Cavaliers vs Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,202.28833628246406,1.776097557510988,102.0,101.0
+Cleveland Cavaliers vs Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,198.0966658564384,2.0650015937668393,101.0,99.0
+Cleveland Cavaliers vs Miami Heat,Cleveland Cavaliers,Miami Heat,198.34384412423384,2.0095000821684565,101.0,99.0
+Cleveland Cavaliers vs New York Knicks,Cleveland Cavaliers,New York Knicks,201.98181700565266,7.380039988668937,105.0,98.0
+Cleveland Cavaliers vs Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,211.95053818406308,6.6590577897173,109.0,103.0
+Cleveland Cavaliers vs Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,209.5730716134887,1.0456859691705342,106.0,104.0
+Cleveland Cavaliers vs Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,210.73360797551737,5.553716379879194,109.0,103.0
+Cleveland Cavaliers vs Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,204.67041925915208,-0.807700666301542,103.0,104.0
+Cleveland Cavaliers vs Utah Jazz,Cleveland Cavaliers,Utah Jazz,193.96140800069162,0.1615165846968054,97.0,97.0
+Cleveland Cavaliers vs Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,204.61566964049558,2.5743819614803276,104.0,101.0
+Cleveland Cavaliers vs Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,208.73058335565014,-2.4232258645896256,103.0,106.0
+Cleveland Cavaliers vs Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,208.5481031142055,6.650671729827902,108.0,101.0
+Cleveland Cavaliers vs Orlando Magic,Cleveland Cavaliers,Orlando Magic,204.0478677539682,6.6776078314421135,106.0,99.0
+Cleveland Cavaliers vs Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,202.76408130401393,1.7602235459384503,103.0,101.0
+Cleveland Cavaliers vs Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,202.08604986321853,3.7098677921437404,103.0,99.0
+Cleveland Cavaliers vs Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,202.73789005709318,-0.17852548715416106,101.0,102.0
+Cleveland Cavaliers vs Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,201.9529575776088,2.85252787025548,103.0,100.0
+Cleveland Cavaliers vs Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,215.12332454016348,-7.906174040372488,104.0,112.0
+Cleveland Cavaliers vs Houston Rockets,Cleveland Cavaliers,Houston Rockets,214.24832708249863,-0.3188369803572595,107.0,108.0
+Cleveland Cavaliers vs Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,210.68368400425908,-1.510892964386732,105.0,107.0
+Cleveland Cavaliers vs Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,203.26690057110494,10.483137342065085,107.0,97.0
+Cleveland Cavaliers vs Washington Wizards,Cleveland Cavaliers,Washington Wizards,207.26241512881376,1.3403345777237408,105.0,104.0
+Cleveland Cavaliers vs Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,207.47701351048346,7.689445664866927,108.0,101.0
+Dallas Mavericks vs Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,206.99559740980845,4.664894741878324,106.0,102.0
+Dallas Mavericks vs New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,204.82392645594166,-1.5931659545454901,102.0,103.0
+Dallas Mavericks vs San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,199.0458224313063,-11.211463238572499,94.0,106.0
+Dallas Mavericks vs Boston Celtics,Dallas Mavericks,Boston Celtics,206.25903654096578,-4.770852327306242,101.0,106.0
+Dallas Mavericks vs Charlotte Hornets,Dallas Mavericks,Charlotte Hornets,200.40181745964384,-3.0752792385106655,99.0,102.0
+Dallas Mavericks vs Denver Nuggets,Dallas Mavericks,Denver Nuggets,210.99960376004395,-0.9917501007306324,105.0,106.0
+Dallas Mavericks vs Indiana Pacers,Dallas Mavericks,Indiana Pacers,200.76513211894934,-3.6248177022057173,100.0,103.0
+Dallas Mavericks vs Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,196.5734616929238,-3.3359136659498665,97.0,101.0
+Dallas Mavericks vs Miami Heat,Dallas Mavericks,Miami Heat,196.82063996071923,-3.3914151775482493,97.0,101.0
+Dallas Mavericks vs New York Knicks,Dallas Mavericks,New York Knicks,200.458612842138,1.9791247289522311,101.0,100.0
+Dallas Mavericks vs Phoenix Suns,Dallas Mavericks,Phoenix Suns,210.42733402054836,1.2581425300005944,106.0,105.0
+Dallas Mavericks vs Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,208.04986744997404,-4.355229290546172,103.0,107.0
+Dallas Mavericks vs Sacramento Kings,Dallas Mavericks,Sacramento Kings,209.2104038120027,0.1528011201624877,105.0,105.0
+Dallas Mavericks vs Toronto Raptors,Dallas Mavericks,Toronto Raptors,203.14721509563736,-6.208615926018248,99.0,105.0
+Dallas Mavericks vs Utah Jazz,Dallas Mavericks,Utah Jazz,192.438203837177,-5.239398675019901,94.0,99.0
+Dallas Mavericks vs Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,204.61566964049558,-8.227448557953084,99.0,107.0
+Dallas Mavericks vs Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,207.20737919213542,-7.8241411243063315,100.0,108.0
+Dallas Mavericks vs Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,207.0248989506909,1.2497564701111972,104.0,103.0
+Dallas Mavericks vs Orlando Magic,Dallas Mavericks,Orlando Magic,202.5246635904536,1.2766925717254067,102.0,101.0
+Dallas Mavericks vs Chicago Bulls,Dallas Mavericks,Chicago Bulls,201.24087714049926,-3.6406917137782555,100.0,103.0
+Dallas Mavericks vs Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,200.56284569970393,-1.6910474675729654,99.0,101.0
+Dallas Mavericks vs Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,201.21468589357852,-5.579440746870867,98.0,104.0
+Dallas Mavericks vs Detroit Pistons,Dallas Mavericks,Detroit Pistons,200.42975341409414,-2.548387389461226,100.0,102.0
+Dallas Mavericks vs Golden State Warriors,Dallas Mavericks,Golden State Warriors,213.60012037664882,-13.307089300089192,101.0,114.0
+Dallas Mavericks vs Houston Rockets,Dallas Mavericks,Houston Rockets,212.7251229189839,-5.719752240073966,104.0,109.0
+Dallas Mavericks vs Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,209.16047984074447,-6.911808224103437,102.0,109.0
+Dallas Mavericks vs Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,201.74369640759028,5.08222208234838,104.0,99.0
+Dallas Mavericks vs Washington Wizards,Dallas Mavericks,Washington Wizards,205.73921096529904,-4.060580681992965,101.0,105.0
+Dallas Mavericks vs Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,205.95380934696885,2.28853040515022,104.0,102.0
+Los Angeles Clippers vs Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,211.11051112496295,9.662502567948279,111.0,101.0
+Los Angeles Clippers vs New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,208.93884017109616,3.404441871524463,107.0,103.0
+Los Angeles Clippers vs San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,203.1607361464608,-6.2138554125025465,99.0,105.0
+Los Angeles Clippers vs Boston Celtics,Los Angeles Clippers,Boston Celtics,210.37395025612028,0.22675549876371148,106.0,105.0
+Los Angeles Clippers vs Charlotte Hornets,Los Angeles Clippers,Charlotte Hornets,204.51673117479834,1.9223285875592881,104.0,102.0
+Los Angeles Clippers vs Denver Nuggets,Los Angeles Clippers,Denver Nuggets,215.1145174751985,4.005857725339322,110.0,106.0
+Los Angeles Clippers vs Indiana Pacers,Los Angeles Clippers,Indiana Pacers,204.8800458341039,1.372790123864236,103.0,102.0
+Los Angeles Clippers vs Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,200.6883754080783,1.6616941601200872,102.0,101.0
+Los Angeles Clippers vs Miami Heat,Los Angeles Clippers,Miami Heat,200.93555367587373,1.6061926485217044,102.0,100.0
+Los Angeles Clippers vs New York Knicks,Los Angeles Clippers,New York Knicks,204.5735265572925,6.976732555022185,106.0,99.0
+Los Angeles Clippers vs Phoenix Suns,Los Angeles Clippers,Phoenix Suns,214.54224773570292,6.255750356070548,111.0,105.0
+Los Angeles Clippers vs Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,212.16478116512855,0.6423785355237821,106.0,106.0
+Los Angeles Clippers vs Sacramento Kings,Los Angeles Clippers,Sacramento Kings,213.3253175271572,5.150408946232442,110.0,105.0
+Los Angeles Clippers vs Toronto Raptors,Los Angeles Clippers,Toronto Raptors,207.26212881079192,-1.2110080999482942,103.0,105.0
+Los Angeles Clippers vs Utah Jazz,Los Angeles Clippers,Utah Jazz,196.5531175523315,-0.24179084894994674,98.0,99.0
+Los Angeles Clippers vs Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,208.73058335565014,-3.22984073188313,103.0,107.0
+Los Angeles Clippers vs Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,207.20737919213542,2.1710745278335755,105.0,103.0
+Los Angeles Clippers vs Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,211.1398126658454,6.24736429618115,109.0,103.0
+Los Angeles Clippers vs Orlando Magic,Los Angeles Clippers,Orlando Magic,206.6395773056081,6.274300397795361,107.0,101.0
+Los Angeles Clippers vs Chicago Bulls,Los Angeles Clippers,Chicago Bulls,205.35579085565377,1.3569161122916982,104.0,102.0
+Los Angeles Clippers vs Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,204.67775941485843,3.3065603584969883,105.0,101.0
+Los Angeles Clippers vs Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,205.32959960873308,-0.5818329208009132,103.0,103.0
+Los Angeles Clippers vs Detroit Pistons,Los Angeles Clippers,Detroit Pistons,204.5446671292487,2.449220436608728,104.0,102.0
+Los Angeles Clippers vs Golden State Warriors,Los Angeles Clippers,Golden State Warriors,217.71503409180337,-8.30948147401924,105.0,114.0
+Los Angeles Clippers vs Houston Rockets,Los Angeles Clippers,Houston Rockets,216.84003663413847,-0.7221444140040116,108.0,109.0
+Los Angeles Clippers vs Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,213.27539355589897,-1.914200398033484,107.0,109.0
+Los Angeles Clippers vs Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,205.85861012274478,10.079829908418333,108.0,98.0
+Los Angeles Clippers vs Washington Wizards,Los Angeles Clippers,Washington Wizards,209.8541246804536,0.9370271440769886,106.0,105.0
+Los Angeles Clippers vs Brooklyn Nets,Los Angeles Clippers,Brooklyn Nets,210.06872306212335,7.286138231220175,109.0,102.0
+Minnesota Timberwolves vs Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,210.92803088351837,0.5886049735307499,107.0,106.0
+Minnesota Timberwolves vs New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,208.75635992965164,-5.669455722893065,102.0,108.0
+Minnesota Timberwolves vs San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,202.97825590501628,-15.287753006920074,94.0,109.0
+Minnesota Timberwolves vs Boston Celtics,Minnesota Timberwolves,Boston Celtics,210.19147001467576,-8.847142095653817,101.0,110.0
+Minnesota Timberwolves vs Charlotte Hornets,Minnesota Timberwolves,Charlotte Hornets,204.33425093335376,-7.1515690068582405,99.0,107.0
+Minnesota Timberwolves vs Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,214.93203723375393,-5.068039869078207,105.0,111.0
+Minnesota Timberwolves vs Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,204.69756559265932,-7.701107470553293,99.0,106.0
+Minnesota Timberwolves vs Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,200.5058951666337,-7.4122034342974406,97.0,104.0
+Minnesota Timberwolves vs Miami Heat,Minnesota Timberwolves,Miami Heat,200.75307343442915,-7.467704945895823,97.0,105.0
+Minnesota Timberwolves vs New York Knicks,Minnesota Timberwolves,New York Knicks,204.39104631584797,-2.097165039395344,102.0,104.0
+Minnesota Timberwolves vs Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,214.35976749425834,-2.8181472383469806,107.0,109.0
+Minnesota Timberwolves vs Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,211.98230092368402,-8.431519058893747,102.0,111.0
+Minnesota Timberwolves vs Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,213.1428372857127,-3.923488648185087,105.0,109.0
+Minnesota Timberwolves vs Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,207.07964856934734,-10.284905694365822,99.0,109.0
+Minnesota Timberwolves vs Utah Jazz,Minnesota Timberwolves,Utah Jazz,196.37063731088693,-9.315688443367474,94.0,103.0
+Minnesota Timberwolves vs Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,208.5481031142055,-12.303738326300657,98.0,111.0
+Minnesota Timberwolves vs Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,207.0248989506909,-6.902823066583952,101.0,108.0
+Minnesota Timberwolves vs Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,211.1398126658454,-11.900430892653905,100.0,112.0
+Minnesota Timberwolves vs Orlando Magic,Minnesota Timberwolves,Orlando Magic,206.45709706416352,-2.799597196622168,102.0,105.0
+Minnesota Timberwolves vs Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,205.17331061420924,-7.71698148212583,99.0,107.0
+Minnesota Timberwolves vs Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,204.49527917341385,-5.7673372359205395,100.0,106.0
+Minnesota Timberwolves vs Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,205.14711936728844,-9.65573051521844,98.0,108.0
+Minnesota Timberwolves vs Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,204.36218688780406,-6.624677157808801,99.0,106.0
+Minnesota Timberwolves vs Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,217.53255385035874,-17.383379068436767,101.0,118.0
+Minnesota Timberwolves vs Houston Rockets,Minnesota Timberwolves,Houston Rockets,216.6575563926939,-9.796042008421539,104.0,114.0
+Minnesota Timberwolves vs Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,213.0929133144544,-10.988097992451012,102.0,113.0
+Minnesota Timberwolves vs Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,205.67612988130026,1.005932314000805,104.0,103.0
+Minnesota Timberwolves vs Washington Wizards,Minnesota Timberwolves,Washington Wizards,209.67164443900901,-8.13687045034054,101.0,109.0
+Minnesota Timberwolves vs Brooklyn Nets,Minnesota Timberwolves,Brooklyn Nets,209.88624282067877,-1.7877593631973547,105.0,106.0
+Orlando Magic vs Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,206.42779552328108,0.5616688719165404,104.0,104.0
+Orlando Magic vs New Orleans Pelicans,Orlando Magic,New Orleans Pelicans,204.25612456941434,-5.696391824507274,100.0,105.0
+Orlando Magic vs San Antonio Spurs,Orlando Magic,San Antonio Spurs,198.47802054477899,-15.314689108534283,92.0,107.0
+Orlando Magic vs Boston Celtics,Orlando Magic,Boston Celtics,205.69123465443846,-8.874078197268027,99.0,108.0
+Orlando Magic vs Charlotte Hornets,Orlando Magic,Charlotte Hornets,199.83401557311646,-7.17850510847245,97.0,104.0
+Orlando Magic vs Denver Nuggets,Orlando Magic,Denver Nuggets,210.43180187351663,-5.094975970692417,103.0,108.0
+Orlando Magic vs Indiana Pacers,Orlando Magic,Indiana Pacers,200.19733023242202,-7.728043572167502,97.0,105.0
+Orlando Magic vs Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,196.0056598063964,-7.43913953591165,95.0,102.0
+Orlando Magic vs Miami Heat,Orlando Magic,Miami Heat,196.25283807419186,-7.494641047510033,95.0,102.0
+Orlando Magic vs New York Knicks,Orlando Magic,New York Knicks,199.89081095561068,-2.1241011410095534,99.0,101.0
+Orlando Magic vs Phoenix Suns,Orlando Magic,Phoenix Suns,209.85953213402104,-2.84508333996119,104.0,107.0
+Orlando Magic vs Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,207.48206556344672,-8.458455160507956,100.0,109.0
+Orlando Magic vs Sacramento Kings,Orlando Magic,Sacramento Kings,208.6426019254754,-3.9504247497992964,103.0,106.0
+Orlando Magic vs Toronto Raptors,Orlando Magic,Toronto Raptors,202.57941320911004,-10.311841795980031,97.0,107.0
+Orlando Magic vs Utah Jazz,Orlando Magic,Utah Jazz,191.87040195064964,-9.342624544981684,92.0,101.0
+Orlando Magic vs Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,204.0478677539682,-12.330674427914868,96.0,109.0
+Orlando Magic vs Dallas Mavericks,Orlando Magic,Dallas Mavericks,202.5246635904536,-6.929759168198162,99.0,106.0
+Orlando Magic vs Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,206.6395773056081,-11.927366994268116,98.0,110.0
+Orlando Magic vs Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,206.45709706416352,-2.8534693998505873,102.0,105.0
+Orlando Magic vs Chicago Bulls,Orlando Magic,Chicago Bulls,200.67307525397194,-7.743917583740039,97.0,105.0
+Orlando Magic vs Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,199.99504381317655,-5.794273337534749,97.0,103.0
+Orlando Magic vs Atlanta Hawks,Orlando Magic,Atlanta Hawks,200.64688400705114,-9.68266661683265,96.0,106.0
+Orlando Magic vs Detroit Pistons,Orlando Magic,Detroit Pistons,199.86195152756676,-6.65161325942301,97.0,104.0
+Orlando Magic vs Golden State Warriors,Orlando Magic,Golden State Warriors,213.03231849012144,-17.41031517005098,98.0,116.0
+Orlando Magic vs Houston Rockets,Orlando Magic,Houston Rockets,212.1573210324566,-9.822978110035749,102.0,111.0
+Orlando Magic vs Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,208.5926779542171,-11.015034094065221,99.0,110.0
+Orlando Magic vs Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,201.17589452106296,0.9789962123865954,101.0,100.0
+Orlando Magic vs Washington Wizards,Orlando Magic,Washington Wizards,205.17140907877172,-8.16380655195475,99.0,107.0
+Orlando Magic vs Brooklyn Nets,Orlando Magic,Brooklyn Nets,205.38600746044148,-1.8146954648115643,102.0,104.0
+Chicago Bulls vs Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,205.1440090733268,5.479053157420202,106.0,100.0
+Chicago Bulls vs New Orleans Pelicans,Chicago Bulls,New Orleans Pelicans,202.97233811946,-0.7790075390036124,101.0,102.0
+Chicago Bulls vs San Antonio Spurs,Chicago Bulls,San Antonio Spurs,197.19423409482465,-10.397304823030622,94.0,104.0
+Chicago Bulls vs Boston Celtics,Chicago Bulls,Boston Celtics,204.40744820448413,-3.9566939117643645,100.0,104.0
+Chicago Bulls vs Charlotte Hornets,Chicago Bulls,Charlotte Hornets,198.55022912316218,-2.261120822968788,99.0,101.0
+Chicago Bulls vs Denver Nuggets,Chicago Bulls,Denver Nuggets,209.1480154235623,-0.17759168518875468,105.0,105.0
+Chicago Bulls vs Indiana Pacers,Chicago Bulls,Indiana Pacers,198.91354378246768,-2.8106592866638396,98.0,101.0
+Chicago Bulls vs Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,194.72187335644213,-2.5217552504079888,97.0,99.0
+Chicago Bulls vs Miami Heat,Chicago Bulls,Miami Heat,194.96905162423758,-2.5772567620063715,96.0,99.0
+Chicago Bulls vs New York Knicks,Chicago Bulls,New York Knicks,198.60702450565634,2.7932831444941084,101.0,99.0
+Chicago Bulls vs Phoenix Suns,Chicago Bulls,Phoenix Suns,208.5757456840667,2.0723009455424717,106.0,104.0
+Chicago Bulls vs Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,206.1982791134924,-3.5410708750042934,102.0,105.0
+Chicago Bulls vs Sacramento Kings,Chicago Bulls,Sacramento Kings,207.35881547552106,0.9669595357043654,104.0,103.0
+Chicago Bulls vs Toronto Raptors,Chicago Bulls,Toronto Raptors,201.2956267591557,-5.39445751047637,98.0,103.0
+Chicago Bulls vs Utah Jazz,Chicago Bulls,Utah Jazz,190.58661550069536,-4.425240259478023,94.0,98.0
+Chicago Bulls vs Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,202.76408130401393,-7.413290142411206,98.0,105.0
+Chicago Bulls vs Dallas Mavericks,Chicago Bulls,Dallas Mavericks,201.24087714049926,-2.0123748826945,100.0,102.0
+Chicago Bulls vs Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,205.35579085565377,-7.009982708764454,99.0,106.0
+Chicago Bulls vs Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,205.17331061420924,2.0639148856530745,104.0,102.0
+Chicago Bulls vs Orlando Magic,Chicago Bulls,Orlando Magic,200.67307525397194,2.090850987267284,102.0,100.0
+Chicago Bulls vs Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,198.71125736322227,-0.8768890520310877,99.0,100.0
+Chicago Bulls vs Atlanta Hawks,Chicago Bulls,Atlanta Hawks,199.36309755709686,-4.765282331328989,97.0,102.0
+Chicago Bulls vs Detroit Pistons,Chicago Bulls,Detroit Pistons,198.57816507761248,-1.7342289739193482,99.0,101.0
+Chicago Bulls vs Golden State Warriors,Chicago Bulls,Golden State Warriors,211.74853204016716,-12.492930884547315,100.0,112.0
+Chicago Bulls vs Houston Rockets,Chicago Bulls,Houston Rockets,210.87353458250226,-4.905593824532088,104.0,109.0
+Chicago Bulls vs Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,207.30889150426282,-6.09764980856156,101.0,107.0
+Chicago Bulls vs Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,199.89210807110862,5.896380497890258,103.0,98.0
+Chicago Bulls vs Washington Wizards,Chicago Bulls,Washington Wizards,203.88762262881738,-3.2464222664510873,101.0,104.0
+Chicago Bulls vs Brooklyn Nets,Chicago Bulls,Brooklyn Nets,204.1022210104872,3.1026888206920975,104.0,101.0
+Milwaukee Bucks vs Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,204.4659776325314,3.529408911214912,105.0,101.0
+Milwaukee Bucks vs New Orleans Pelicans,Milwaukee Bucks,New Orleans Pelicans,202.29430667866467,-2.7286517852089025,100.0,103.0
+Milwaukee Bucks vs San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,196.5162026540293,-12.346949069235912,93.0,105.0
+Milwaukee Bucks vs Boston Celtics,Milwaukee Bucks,Boston Celtics,203.7294167636888,-5.906338157969655,100.0,106.0
+Milwaukee Bucks vs Charlotte Hornets,Milwaukee Bucks,Charlotte Hornets,197.8721976823668,-4.210765069174078,97.0,101.0
+Milwaukee Bucks vs Denver Nuggets,Milwaukee Bucks,Denver Nuggets,208.46998398276696,-2.1272359313940448,104.0,106.0
+Milwaukee Bucks vs Indiana Pacers,Milwaukee Bucks,Indiana Pacers,198.23551234167235,-4.76030353286913,97.0,102.0
+Milwaukee Bucks vs Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,194.04384191564674,-4.471399496613278,95.0,100.0
+Milwaukee Bucks vs Miami Heat,Milwaukee Bucks,Miami Heat,194.29102018344219,-4.526901008211661,96.0,100.0
+Milwaukee Bucks vs New York Knicks,Milwaukee Bucks,New York Knicks,197.928993064861,0.8436388982888183,100.0,99.0
+Milwaukee Bucks vs Phoenix Suns,Milwaukee Bucks,Phoenix Suns,207.89771424327137,0.1226566993371816,105.0,104.0
+Milwaukee Bucks vs Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,205.52024767269705,-5.490715121209584,100.0,106.0
+Milwaukee Bucks vs Sacramento Kings,Milwaukee Bucks,Sacramento Kings,206.68078403472572,-0.9826847105009247,103.0,104.0
+Milwaukee Bucks vs Toronto Raptors,Milwaukee Bucks,Toronto Raptors,200.61759531836037,-7.34410175668166,97.0,104.0
+Milwaukee Bucks vs Utah Jazz,Milwaukee Bucks,Utah Jazz,189.90858405989997,-6.374884505683313,92.0,99.0
+Milwaukee Bucks vs Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,202.08604986321853,-9.362934388616496,97.0,106.0
+Milwaukee Bucks vs Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,200.56284569970393,-3.96201912889979,99.0,103.0
+Milwaukee Bucks vs Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,204.67775941485843,-8.959626954969744,98.0,107.0
+Milwaukee Bucks vs Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,204.49527917341385,0.11427063944778437,103.0,103.0
+Milwaukee Bucks vs Orlando Magic,Milwaukee Bucks,Orlando Magic,199.99504381317655,0.14120674106199393,100.0,100.0
+Milwaukee Bucks vs Chicago Bulls,Milwaukee Bucks,Chicago Bulls,198.71125736322227,-4.776177544441667,97.0,102.0
+Milwaukee Bucks vs Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,198.68506611630147,-6.714926577534279,97.0,103.0
+Milwaukee Bucks vs Detroit Pistons,Milwaukee Bucks,Detroit Pistons,197.9001336368171,-3.6838732201246382,98.0,102.0
+Milwaukee Bucks vs Golden State Warriors,Milwaukee Bucks,Golden State Warriors,211.07050059937177,-14.442575130752605,99.0,113.0
+Milwaukee Bucks vs Houston Rockets,Milwaukee Bucks,Houston Rockets,210.19550314170692,-6.855238070737377,102.0,109.0
+Milwaukee Bucks vs Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,206.63086006346742,-8.04729405476685,100.0,108.0
+Milwaukee Bucks vs Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,199.2140766303133,3.946736251684967,103.0,99.0
+Milwaukee Bucks vs Washington Wizards,Milwaukee Bucks,Washington Wizards,203.20959118802205,-5.196066512656378,99.0,104.0
+Milwaukee Bucks vs Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,203.4241895696918,1.1530445744868074,103.0,102.0
+Atlanta Hawks vs Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,205.117817826406,7.417802190512814,107.0,99.0
+Atlanta Hawks vs New Orleans Pelicans,Atlanta Hawks,New Orleans Pelicans,202.94614687253926,1.159741494088999,103.0,102.0
+Atlanta Hawks vs San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,197.1680428479039,-8.45855578993801,95.0,103.0
+Atlanta Hawks vs Boston Celtics,Atlanta Hawks,Boston Celtics,204.38125695756338,-2.017944878671753,102.0,104.0
+Atlanta Hawks vs Charlotte Hornets,Atlanta Hawks,Charlotte Hornets,198.52403787624138,-0.32237178987617643,99.0,100.0
+Atlanta Hawks vs Denver Nuggets,Atlanta Hawks,Denver Nuggets,209.1218241766416,1.7611573479038571,106.0,104.0
+Atlanta Hawks vs Indiana Pacers,Atlanta Hawks,Indiana Pacers,198.887352535547,-0.8719102535712284,99.0,100.0
+Atlanta Hawks vs Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,194.69568210952133,-0.5830062173153774,98.0,98.0
+Atlanta Hawks vs Miami Heat,Atlanta Hawks,Miami Heat,194.94286037731678,-0.6385077289137602,98.0,98.0
+Atlanta Hawks vs New York Knicks,Atlanta Hawks,New York Knicks,198.5808332587356,4.732032177586721,102.0,98.0
+Atlanta Hawks vs Phoenix Suns,Atlanta Hawks,Phoenix Suns,208.549554437146,4.011049978635084,107.0,103.0
+Atlanta Hawks vs Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,206.17208786657164,-1.6023218419116823,103.0,104.0
+Atlanta Hawks vs Sacramento Kings,Atlanta Hawks,Sacramento Kings,207.3326242286003,2.905708568796977,106.0,103.0
+Atlanta Hawks vs Toronto Raptors,Atlanta Hawks,Toronto Raptors,201.26943551223502,-3.4557084773837587,99.0,103.0
+Atlanta Hawks vs Utah Jazz,Atlanta Hawks,Utah Jazz,190.56042425377456,-2.4864912263854113,95.0,97.0
+Atlanta Hawks vs Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,202.73789005709318,-5.4745411093185945,99.0,105.0
+Atlanta Hawks vs Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,201.21468589357852,-0.07362584960188867,101.0,101.0
+Atlanta Hawks vs Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,205.32959960873308,-5.071233675671842,101.0,106.0
+Atlanta Hawks vs Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,205.14711936728844,4.002663918745686,105.0,101.0
+Atlanta Hawks vs Orlando Magic,Atlanta Hawks,Orlando Magic,200.64688400705114,4.029600020359895,103.0,99.0
+Atlanta Hawks vs Chicago Bulls,Atlanta Hawks,Chicago Bulls,199.36309755709686,-0.8877842651437664,100.0,101.0
+Atlanta Hawks vs Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,198.68506611630147,1.0618599810615237,101.0,100.0
+Atlanta Hawks vs Detroit Pistons,Atlanta Hawks,Detroit Pistons,198.55197383069174,0.2045200591732632,100.0,100.0
+Atlanta Hawks vs Golden State Warriors,Atlanta Hawks,Golden State Warriors,211.72234079324642,-10.554181851454704,101.0,112.0
+Atlanta Hawks vs Houston Rockets,Atlanta Hawks,Houston Rockets,210.84734333558157,-2.966844791439476,105.0,108.0
+Atlanta Hawks vs Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,207.28270025734201,-4.158900775468949,102.0,107.0
+Atlanta Hawks vs Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,199.86591682418788,7.835129530982869,105.0,97.0
+Atlanta Hawks vs Washington Wizards,Atlanta Hawks,Washington Wizards,203.8614313818967,-1.307673233358476,102.0,103.0
+Atlanta Hawks vs Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,204.0760297635664,5.041437853784709,105.0,100.0
+Detroit Pistons vs Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,204.3328853469216,4.386748833103173,105.0,100.0
+Detroit Pistons vs New Orleans Pelicans,Detroit Pistons,New Orleans Pelicans,202.16121439305488,-1.871311863320642,101.0,102.0
+Detroit Pistons vs San Antonio Spurs,Detroit Pistons,San Antonio Spurs,196.38311036841952,-11.48960914734765,93.0,105.0
+Detroit Pistons vs Boston Celtics,Detroit Pistons,Boston Celtics,203.596324478079,-5.048998236081394,100.0,105.0
+Detroit Pistons vs Charlotte Hornets,Detroit Pistons,Charlotte Hornets,197.739105396757,-3.3534251472858174,98.0,101.0
+Detroit Pistons vs Denver Nuggets,Detroit Pistons,Denver Nuggets,208.33689169715723,-1.2698960095057843,104.0,105.0
+Detroit Pistons vs Indiana Pacers,Detroit Pistons,Indiana Pacers,198.1024200560626,-3.902963610980869,98.0,101.0
+Detroit Pistons vs Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,193.91074963003695,-3.6140595747250184,96.0,99.0
+Detroit Pistons vs Miami Heat,Detroit Pistons,Miami Heat,194.1579278978324,-3.669561086323401,96.0,100.0
+Detroit Pistons vs New York Knicks,Detroit Pistons,New York Knicks,197.7959007792512,1.7009788201770788,101.0,99.0
+Detroit Pistons vs Phoenix Suns,Detroit Pistons,Phoenix Suns,207.76462195766163,0.9799966212254421,105.0,104.0
+Detroit Pistons vs Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,205.38715538708726,-4.633375199321323,101.0,105.0
+Detroit Pistons vs Sacramento Kings,Detroit Pistons,Sacramento Kings,206.54769174911593,-0.12534478861266418,104.0,104.0
+Detroit Pistons vs Toronto Raptors,Detroit Pistons,Toronto Raptors,200.48450303275064,-6.4867618347934,98.0,104.0
+Detroit Pistons vs Utah Jazz,Detroit Pistons,Utah Jazz,189.77549177429017,-5.517544583795052,92.0,98.0
+Detroit Pistons vs Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,201.9529575776088,-8.505594466728235,97.0,106.0
+Detroit Pistons vs Dallas Mavericks,Detroit Pistons,Dallas Mavericks,200.42975341409414,-3.1046792070115297,99.0,102.0
+Detroit Pistons vs Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,204.5446671292487,-8.102287033081483,99.0,107.0
+Detroit Pistons vs Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,204.36218688780406,0.9716105613360448,103.0,102.0
+Detroit Pistons vs Orlando Magic,Detroit Pistons,Orlando Magic,199.86195152756676,0.9985466629502544,101.0,100.0
+Detroit Pistons vs Chicago Bulls,Detroit Pistons,Chicago Bulls,198.57816507761248,-3.9188376225534074,98.0,102.0
+Detroit Pistons vs Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,197.9001336368171,-1.9691933763481173,98.0,100.0
+Detroit Pistons vs Atlanta Hawks,Detroit Pistons,Atlanta Hawks,198.55197383069174,-5.857586655646019,97.0,103.0
+Detroit Pistons vs Golden State Warriors,Detroit Pistons,Golden State Warriors,210.93740831376203,-13.585235208864344,99.0,112.0
+Detroit Pistons vs Houston Rockets,Detroit Pistons,Houston Rockets,210.0624108560972,-5.997898148849117,103.0,109.0
+Detroit Pistons vs Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,206.49776777785763,-7.18995413287859,100.0,107.0
+Detroit Pistons vs Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,199.0809843447035,4.804076173573227,103.0,98.0
+Detroit Pistons vs Washington Wizards,Detroit Pistons,Washington Wizards,203.0764989024123,-4.3387265907681165,99.0,104.0
+Detroit Pistons vs Brooklyn Nets,Detroit Pistons,Brooklyn Nets,203.291097284082,2.010384496375068,103.0,101.0
+Golden State Warriors vs Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,217.5032523094763,15.14545074373114,117.0,102.0
+Golden State Warriors vs New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,215.33158135560956,8.887390047307326,112.0,104.0
+Golden State Warriors vs San Antonio Spurs,Golden State Warriors,San Antonio Spurs,209.5534773309742,-0.7309072367196845,104.0,105.0
+Golden State Warriors vs Boston Celtics,Golden State Warriors,Boston Celtics,216.76669144063368,5.709703674546574,112.0,106.0
+Golden State Warriors vs Charlotte Hornets,Golden State Warriors,Charlotte Hornets,210.90947235931168,7.405276763342151,109.0,102.0
+Golden State Warriors vs Denver Nuggets,Golden State Warriors,Denver Nuggets,221.5072586597119,9.488805901122184,116.0,107.0
+Golden State Warriors vs Indiana Pacers,Golden State Warriors,Indiana Pacers,211.2727870186173,6.855738299647099,110.0,103.0
+Golden State Warriors vs Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,207.08111659259163,7.144642335902949,108.0,100.0
+Golden State Warriors vs Miami Heat,Golden State Warriors,Miami Heat,207.32829486038708,7.089140824304566,108.0,101.0
+Golden State Warriors vs New York Knicks,Golden State Warriors,New York Knicks,210.9662677418059,12.459680730805047,112.0,99.0
+Golden State Warriors vs Phoenix Suns,Golden State Warriors,Phoenix Suns,220.9349889202163,11.738698531853409,117.0,105.0
+Golden State Warriors vs Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,218.55752234964194,6.125326711306645,113.0,107.0
+Golden State Warriors vs Sacramento Kings,Golden State Warriors,Sacramento Kings,219.7180587116706,10.633357122015303,115.0,105.0
+Golden State Warriors vs Toronto Raptors,Golden State Warriors,Toronto Raptors,213.65486999530532,4.271940075834568,110.0,105.0
+Golden State Warriors vs Utah Jazz,Golden State Warriors,Utah Jazz,202.94585873684485,5.241157326832916,105.0,100.0
+Golden State Warriors vs Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,215.12332454016348,2.2531074438997316,109.0,107.0
+Golden State Warriors vs Dallas Mavericks,Golden State Warriors,Dallas Mavericks,213.60012037664882,7.654022703616437,111.0,103.0
+Golden State Warriors vs Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,217.71503409180337,2.6564148775464838,111.0,108.0
+Golden State Warriors vs Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,217.53255385035874,11.730312471964012,115.0,103.0
+Golden State Warriors vs Orlando Magic,Golden State Warriors,Orlando Magic,213.03231849012144,11.757248573578222,112.0,101.0
+Golden State Warriors vs Chicago Bulls,Golden State Warriors,Chicago Bulls,211.74853204016716,6.83986428807456,110.0,103.0
+Golden State Warriors vs Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,211.07050059937177,8.78950853427985,110.0,101.0
+Golden State Warriors vs Atlanta Hawks,Golden State Warriors,Atlanta Hawks,211.72234079324642,4.901115254981949,109.0,104.0
+Golden State Warriors vs Detroit Pistons,Golden State Warriors,Detroit Pistons,210.93740831376203,7.932168612391589,110.0,102.0
+Golden State Warriors vs Houston Rockets,Golden State Warriors,Houston Rockets,223.23277781865187,4.760803761778851,115.0,110.0
+Golden State Warriors vs Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,219.6681347404123,3.5687477777493775,112.0,108.0
+Golden State Warriors vs Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,212.25135130725818,15.562778084201195,114.0,98.0
+Golden State Warriors vs Washington Wizards,Golden State Warriors,Washington Wizards,216.246865864967,6.41997531985985,112.0,106.0
+Golden State Warriors vs Brooklyn Nets,Golden State Warriors,Brooklyn Nets,216.4614642466367,12.769086407003035,115.0,102.0
+Houston Rockets vs Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,216.62825485181145,7.558113683715913,113.0,106.0
+Houston Rockets vs New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,214.45658389794465,1.3000529872920974,108.0,107.0
+Houston Rockets vs San Antonio Spurs,Houston Rockets,San Antonio Spurs,208.6784798733093,-8.318244296734912,100.0,109.0
+Houston Rockets vs Boston Celtics,Houston Rockets,Boston Celtics,215.89169398296877,-1.8776333854686547,107.0,109.0
+Houston Rockets vs Charlotte Hornets,Houston Rockets,Charlotte Hornets,210.03447490164683,-0.182060296673078,105.0,105.0
+Houston Rockets vs Denver Nuggets,Houston Rockets,Denver Nuggets,220.632261202047,1.9014688411069556,112.0,110.0
+Houston Rockets vs Indiana Pacers,Houston Rockets,Indiana Pacers,210.3977895609524,-0.7315987603681298,105.0,106.0
+Houston Rockets vs Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,206.20611913492678,-0.44269472411227895,103.0,104.0
+Houston Rockets vs Miami Heat,Houston Rockets,Miami Heat,206.45329740272223,-0.49819623571066174,103.0,104.0
+Houston Rockets vs New York Knicks,Houston Rockets,New York Knicks,210.091270284141,4.872343670789819,108.0,103.0
+Houston Rockets vs Phoenix Suns,Houston Rockets,Phoenix Suns,220.0599914625514,4.151361471838182,113.0,109.0
+Houston Rockets vs Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,217.68252489197704,-1.4620103487085838,109.0,110.0
+Houston Rockets vs Sacramento Kings,Houston Rockets,Sacramento Kings,218.8430612540057,3.0460200620000752,112.0,109.0
+Houston Rockets vs Toronto Raptors,Houston Rockets,Toronto Raptors,212.77987253764041,-3.3153969841806603,105.0,108.0
+Houston Rockets vs Utah Jazz,Houston Rockets,Utah Jazz,202.07086127918,-2.346179733182313,100.0,103.0
+Houston Rockets vs Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,214.24832708249863,-5.334229616115496,105.0,110.0
+Houston Rockets vs Dallas Mavericks,Houston Rockets,Dallas Mavericks,212.7251229189839,0.06668564360120977,107.0,107.0
+Houston Rockets vs Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,216.84003663413847,-4.930922182468744,107.0,112.0
+Houston Rockets vs Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,216.6575563926939,4.142975411948784,111.0,107.0
+Houston Rockets vs Orlando Magic,Houston Rockets,Orlando Magic,212.1573210324566,4.169911513562994,109.0,105.0
+Houston Rockets vs Chicago Bulls,Houston Rockets,Chicago Bulls,210.87353458250226,-0.747472771940668,106.0,106.0
+Houston Rockets vs Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,210.19550314170692,1.2021714742646217,106.0,105.0
+Houston Rockets vs Atlanta Hawks,Houston Rockets,Atlanta Hawks,210.84734333558157,-2.6862218050332793,105.0,107.0
+Houston Rockets vs Detroit Pistons,Houston Rockets,Detroit Pistons,210.0624108560972,0.34483155237636165,106.0,105.0
+Houston Rockets vs Golden State Warriors,Houston Rockets,Golden State Warriors,223.23277781865187,-10.413870358251605,107.0,118.0
+Houston Rockets vs Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,218.79313728274747,-4.01858928226585,108.0,112.0
+Houston Rockets vs Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,211.37635384959327,7.975441024185967,110.0,102.0
+Houston Rockets vs Washington Wizards,Houston Rockets,Washington Wizards,215.3718684073021,-1.1673617401553775,107.0,109.0
+Houston Rockets vs Brooklyn Nets,Houston Rockets,Brooklyn Nets,215.58646678897185,5.181749346987807,111.0,106.0
+Oklahoma City Thunder vs Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,213.06361177357195,8.750169667745386,112.0,103.0
+Oklahoma City Thunder vs New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,210.8919408197052,2.4921089713215703,107.0,105.0
+Oklahoma City Thunder vs San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,205.11383679506986,-7.126188312705439,99.0,107.0
+Oklahoma City Thunder vs Boston Celtics,Oklahoma City Thunder,Boston Celtics,212.32705090472933,-0.6855774014391822,106.0,107.0
+Oklahoma City Thunder vs Charlotte Hornets,Oklahoma City Thunder,Charlotte Hornets,206.46983182340733,1.0099956873563944,104.0,103.0
+Oklahoma City Thunder vs Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,217.0676181238075,3.0935248251364276,111.0,107.0
+Oklahoma City Thunder vs Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,206.8331464827129,0.4604572236613427,104.0,104.0
+Oklahoma City Thunder vs Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,202.64147605668728,0.7493612599171935,102.0,101.0
+Oklahoma City Thunder vs Miami Heat,Oklahoma City Thunder,Miami Heat,202.88865432448273,0.6938597483188107,102.0,101.0
+Oklahoma City Thunder vs New York Knicks,Oklahoma City Thunder,New York Knicks,206.52662720590155,6.06439965481929,107.0,101.0
+Oklahoma City Thunder vs Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,216.4953483843119,5.343417455867655,112.0,106.0
+Oklahoma City Thunder vs Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,214.1178818137376,-0.2699543646791116,107.0,108.0
+Oklahoma City Thunder vs Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,215.27841817576626,4.238076046029548,110.0,106.0
+Oklahoma City Thunder vs Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,209.21522945940092,-2.123341000151188,104.0,106.0
+Oklahoma City Thunder vs Utah Jazz,Oklahoma City Thunder,Utah Jazz,198.5062182009405,-1.1541237491528404,99.0,100.0
+Oklahoma City Thunder vs Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,210.68368400425908,-4.142173632086024,104.0,108.0
+Oklahoma City Thunder vs Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,209.16047984074447,1.2587416276306818,106.0,105.0
+Oklahoma City Thunder vs Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,213.27539355589897,-3.7388661984392715,105.0,109.0
+Oklahoma City Thunder vs Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,213.0929133144544,5.335031395978257,110.0,105.0
+Oklahoma City Thunder vs Orlando Magic,Oklahoma City Thunder,Orlando Magic,208.5926779542171,5.361967497592467,108.0,102.0
+Oklahoma City Thunder vs Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,207.30889150426282,0.44458321208880447,104.0,104.0
+Oklahoma City Thunder vs Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,206.63086006346742,2.3942274582940946,105.0,102.0
+Oklahoma City Thunder vs Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,207.28270025734201,-1.494165821003807,104.0,106.0
+Oklahoma City Thunder vs Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,206.49776777785763,1.536887536405834,105.0,103.0
+Oklahoma City Thunder vs Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,219.6681347404123,-9.221814374222133,106.0,115.0
+Oklahoma City Thunder vs Houston Rockets,Oklahoma City Thunder,Houston Rockets,218.79313728274747,-1.6344773142069053,109.0,111.0
+Oklahoma City Thunder vs Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,207.81171077135383,9.16749700821544,109.0,99.0
+Oklahoma City Thunder vs Washington Wizards,Oklahoma City Thunder,Washington Wizards,211.8072253290626,0.024694243874094912,106.0,106.0
+Oklahoma City Thunder vs Brooklyn Nets,Oklahoma City Thunder,Brooklyn Nets,212.02182371073235,6.37380533101728,110.0,103.0
+Philadelphia 76ers vs Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,205.6468283404178,-3.243860638706433,102.0,105.0
+Philadelphia 76ers vs New Orleans Pelicans,Philadelphia 76ers,New Orleans Pelicans,203.47515738655102,-9.501921335130247,97.0,107.0
+Philadelphia 76ers vs San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,197.69705336191566,-19.120218619157257,89.0,108.0
+Philadelphia 76ers vs Boston Celtics,Philadelphia 76ers,Boston Celtics,204.91026747157514,-12.679607707890998,97.0,110.0
+Philadelphia 76ers vs Charlotte Hornets,Philadelphia 76ers,Charlotte Hornets,199.0530483902532,-10.984034619095421,95.0,106.0
+Philadelphia 76ers vs Denver Nuggets,Philadelphia 76ers,Denver Nuggets,209.6508346906533,-8.90050548131539,100.0,109.0
+Philadelphia 76ers vs Indiana Pacers,Philadelphia 76ers,Indiana Pacers,199.4163630495587,-11.533573082790474,94.0,106.0
+Philadelphia 76ers vs Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,195.22469262353314,-11.244669046534623,93.0,104.0
+Philadelphia 76ers vs Miami Heat,Philadelphia 76ers,Miami Heat,195.4718708913286,-11.300170558133006,92.0,104.0
+Philadelphia 76ers vs New York Knicks,Philadelphia 76ers,New York Knicks,199.10984377274735,-5.929630651632527,97.0,103.0
+Philadelphia 76ers vs Phoenix Suns,Philadelphia 76ers,Phoenix Suns,209.07856495115772,-6.650612850584164,102.0,108.0
+Philadelphia 76ers vs Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,206.7010983805834,-12.263984671130927,98.0,110.0
+Philadelphia 76ers vs Sacramento Kings,Philadelphia 76ers,Sacramento Kings,207.86163474261207,-7.7559542604222695,101.0,109.0
+Philadelphia 76ers vs Toronto Raptors,Philadelphia 76ers,Toronto Raptors,201.79844602624672,-14.117371306603005,94.0,108.0
+Philadelphia 76ers vs Utah Jazz,Philadelphia 76ers,Utah Jazz,191.08943476778637,-13.148154055604657,89.0,103.0
+Philadelphia 76ers vs Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,203.26690057110494,-16.13620393853784,94.0,110.0
+Philadelphia 76ers vs Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,201.74369640759028,-10.735288678821135,96.0,107.0
+Philadelphia 76ers vs Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,205.85861012274478,-15.732896504891087,95.0,111.0
+Philadelphia 76ers vs Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,205.67612988130026,-6.65899891047356,100.0,107.0
+Philadelphia 76ers vs Orlando Magic,Philadelphia 76ers,Orlando Magic,201.17589452106296,-6.6320628088593505,98.0,105.0
+Philadelphia 76ers vs Chicago Bulls,Philadelphia 76ers,Chicago Bulls,199.89210807110862,-11.549447094363012,94.0,106.0
+Philadelphia 76ers vs Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,199.2140766303133,-9.599802848157722,95.0,105.0
+Philadelphia 76ers vs Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,199.86591682418788,-13.488196127455623,94.0,107.0
+Philadelphia 76ers vs Detroit Pistons,Philadelphia 76ers,Detroit Pistons,199.0809843447035,-10.457142770045984,95.0,105.0
+Philadelphia 76ers vs Golden State Warriors,Philadelphia 76ers,Golden State Warriors,212.25135130725818,-21.21584468067395,96.0,117.0
+Philadelphia 76ers vs Houston Rockets,Philadelphia 76ers,Houston Rockets,211.37635384959327,-13.628507620658722,100.0,114.0
+Philadelphia 76ers vs Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,207.81171077135383,-14.820563604688195,97.0,112.0
+Philadelphia 76ers vs Washington Wizards,Philadelphia 76ers,Washington Wizards,204.3904418959084,-11.969336062577723,96.0,108.0
+Philadelphia 76ers vs Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,204.6050402775782,-5.620224975434537,100.0,105.0
+Washington Wizards vs Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,209.64234289812657,5.898942125634912,108.0,102.0
+Washington Wizards vs New Orleans Pelicans,Washington Wizards,New Orleans Pelicans,207.47067194425978,-0.35911857078890286,104.0,105.0
+Washington Wizards vs San Antonio Spurs,Washington Wizards,San Antonio Spurs,201.69256791962442,-9.977415854815913,96.0,106.0
+Washington Wizards vs Boston Celtics,Washington Wizards,Boston Celtics,208.9057820292839,-3.536804943549655,103.0,107.0
+Washington Wizards vs Charlotte Hornets,Washington Wizards,Charlotte Hornets,203.04856294796195,-1.841231854754078,101.0,103.0
+Washington Wizards vs Denver Nuggets,Washington Wizards,Denver Nuggets,213.64634924836213,0.24229728302595488,108.0,107.0
+Washington Wizards vs Indiana Pacers,Washington Wizards,Indiana Pacers,203.4118776072675,-2.39077031844913,101.0,103.0
+Washington Wizards vs Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,199.2202071812419,-2.101866282193279,99.0,101.0
+Washington Wizards vs Miami Heat,Washington Wizards,Miami Heat,199.46738544903735,-2.157367793791662,99.0,101.0
+Washington Wizards vs New York Knicks,Washington Wizards,New York Knicks,203.1053583304561,3.213172112708818,104.0,101.0
+Washington Wizards vs Phoenix Suns,Washington Wizards,Phoenix Suns,213.07407950886653,2.4921899137571812,109.0,106.0
+Washington Wizards vs Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,210.69661293829216,-3.121181906789584,104.0,107.0
+Washington Wizards vs Sacramento Kings,Washington Wizards,Sacramento Kings,211.85714930032083,1.3868485039190754,107.0,106.0
+Washington Wizards vs Toronto Raptors,Washington Wizards,Toronto Raptors,205.79396058395554,-4.974568542261661,101.0,106.0
+Washington Wizards vs Utah Jazz,Washington Wizards,Utah Jazz,195.08494932549513,-4.005351291263313,96.0,100.0
+Washington Wizards vs Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,207.26241512881376,-6.993401174196496,100.0,107.0
+Washington Wizards vs Dallas Mavericks,Washington Wizards,Dallas Mavericks,205.73921096529904,-1.5924859144797905,103.0,105.0
+Washington Wizards vs Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,209.8541246804536,-6.590093740549744,102.0,109.0
+Washington Wizards vs Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,209.67164443900901,2.483803853867784,107.0,104.0
+Washington Wizards vs Orlando Magic,Washington Wizards,Orlando Magic,205.17140907877172,2.5107399554819936,104.0,102.0
+Washington Wizards vs Chicago Bulls,Washington Wizards,Chicago Bulls,203.88762262881738,-2.406644330021668,101.0,104.0
+Washington Wizards vs Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,203.20959118802205,-0.45700008381637813,101.0,102.0
+Washington Wizards vs Atlanta Hawks,Washington Wizards,Atlanta Hawks,203.8614313818967,-4.34539336311428,100.0,104.0
+Washington Wizards vs Detroit Pistons,Washington Wizards,Detroit Pistons,203.0764989024123,-1.3143400057046386,101.0,103.0
+Washington Wizards vs Golden State Warriors,Washington Wizards,Golden State Warriors,216.246865864967,-12.073041916332604,102.0,114.0
+Washington Wizards vs Houston Rockets,Washington Wizards,Houston Rockets,215.3718684073021,-4.485704856317378,106.0,111.0
+Washington Wizards vs Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,211.8072253290626,-5.677760840346851,104.0,110.0
+Washington Wizards vs Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,204.3904418959084,6.316269466104968,106.0,100.0
+Washington Wizards vs Brooklyn Nets,Washington Wizards,Brooklyn Nets,208.60055483528697,3.522577788906807,107.0,104.0
+Brooklyn Nets vs Los Angeles Lakers,Brooklyn Nets,Los Angeles Lakers,209.85694127979633,-0.4501689615082731,105.0,106.0
+Brooklyn Nets vs New Orleans Pelicans,Brooklyn Nets,New Orleans Pelicans,207.6852703259296,-6.708229657932088,101.0,108.0
+Brooklyn Nets vs San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,201.90716630129424,-16.3265269419591,94.0,110.0
+Brooklyn Nets vs Boston Celtics,Brooklyn Nets,Boston Celtics,209.12038041095371,-9.88591603069284,100.0,110.0
+Brooklyn Nets vs Charlotte Hornets,Brooklyn Nets,Charlotte Hornets,203.2631613296317,-8.190342941897264,98.0,107.0
+Brooklyn Nets vs Denver Nuggets,Brooklyn Nets,Denver Nuggets,213.8609476300319,-6.10681380411723,104.0,110.0
+Brooklyn Nets vs Indiana Pacers,Brooklyn Nets,Indiana Pacers,203.62647598893727,-8.739881405592316,98.0,106.0
+Brooklyn Nets vs Memphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,199.43480556291166,-8.450977369336464,96.0,105.0
+Brooklyn Nets vs Miami Heat,Brooklyn Nets,Miami Heat,199.6819838307071,-8.506478880934846,96.0,104.0
+Brooklyn Nets vs New York Knicks,Brooklyn Nets,New York Knicks,203.31995671212593,-3.135938974434367,101.0,104.0
+Brooklyn Nets vs Phoenix Suns,Brooklyn Nets,Phoenix Suns,213.2886778905363,-3.8569211733860036,105.0,109.0
+Brooklyn Nets vs Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,210.91121131996198,-9.47029299393277,101.0,111.0
+Brooklyn Nets vs Sacramento Kings,Brooklyn Nets,Sacramento Kings,212.07174768199064,-4.96226258322411,104.0,109.0
+Brooklyn Nets vs Toronto Raptors,Brooklyn Nets,Toronto Raptors,206.0085589656253,-11.323679629404845,98.0,110.0
+Brooklyn Nets vs Utah Jazz,Brooklyn Nets,Utah Jazz,195.2995477071649,-10.354462378406497,93.0,104.0
+Brooklyn Nets vs Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,207.47701351048346,-13.342512261339682,97.0,111.0
+Brooklyn Nets vs Dallas Mavericks,Brooklyn Nets,Dallas Mavericks,205.95380934696885,-7.941597001622975,99.0,107.0
+Brooklyn Nets vs Los Angeles Clippers,Brooklyn Nets,Los Angeles Clippers,210.06872306212335,-12.93920482769293,99.0,112.0
+Brooklyn Nets vs Minnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,209.88624282067877,-3.865307233275401,104.0,108.0
+Brooklyn Nets vs Orlando Magic,Brooklyn Nets,Orlando Magic,205.38600746044148,-3.8383711316611913,101.0,105.0
+Brooklyn Nets vs Chicago Bulls,Brooklyn Nets,Chicago Bulls,204.1022210104872,-8.755755417164853,98.0,107.0
+Brooklyn Nets vs Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,203.4241895696918,-6.8061111709595625,99.0,106.0
+Brooklyn Nets vs Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,204.0760297635664,-10.694504450257464,97.0,108.0
+Brooklyn Nets vs Detroit Pistons,Brooklyn Nets,Detroit Pistons,203.291097284082,-7.663451092847824,98.0,106.0
+Brooklyn Nets vs Golden State Warriors,Brooklyn Nets,Golden State Warriors,216.4614642466367,-18.422153003475792,99.0,118.0
+Brooklyn Nets vs Houston Rockets,Brooklyn Nets,Houston Rockets,215.58646678897185,-10.834815943460562,103.0,114.0
+Brooklyn Nets vs Oklahoma City Thunder,Brooklyn Nets,Oklahoma City Thunder,212.02182371073235,-12.026871927490035,101.0,113.0
+Brooklyn Nets vs Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,204.6050402775782,-0.03284162103821808,103.0,103.0
+Brooklyn Nets vs Washington Wizards,Brooklyn Nets,Washington Wizards,208.60055483528697,-9.175644385379563,100.0,109.0
